@@ -216,14 +216,27 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 📝 Manuscripts
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/GREAT.png">
+</dt>
+  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
+<dd>under review, 2025</dd>
+
+</dl>
+
+
+<hr>
+
 
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/EARTH.png">
 </dt>
   <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zewen Liu, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>under review, 2024</dd>
+<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
+<dd>under review, 2025</dd>
 
 </dl>
 
