@@ -87,6 +87,7 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.12:</em> I serve as a reviewer for <strong>ICML 2025</strong>.</li>
   <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
   <li><em>2024.09:</em> ✨✨✨ Two papers were accepted by <strong>NeurIPS 2024</strong>. See you in Vancouver.</li>
@@ -312,13 +313,9 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 # 🎡 Service
 ## Conference Committee Member
-- Reviewer for ICLR'2025
-- Reviewer for NeurIPS'2024
-- Reviewer for AISTATS'2025
-- Reviewer for CVPR'2024,2025
-- Reviewer for ECCV'2024
-- Reviewer for AAAI'2024, 2025
-- Reviewer for ACM MM'2024
+- Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024, AISTATS'2025
+- Reviewer for CVPR'2024,2025, ECCV'2024
+- Reviewer for AAAI'2024, 2025, ACM MM'2024
 - Reviewer for LoG'2024
 
 ##  Journal Reviewer
