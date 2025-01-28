@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>🔥冠呈の超维情书🔥</title>
+    <style>
+        :root {
+            --neon1: #ff2d75;
+            --neon2: #7dfffe;
+            --neon3: #ffaa00;
+            --neon4: #bc13fe;
+        }
+        body {
+            background: #000;
+            margin: 0;
+            overflow-x: hidden;
+            font-family: 'Exo', sans-serif;
+        }
+        .cyber-header {
+            text-align: center;
+            padding: 2rem;
+            background: linear-gradient(45deg, var(--neon1), var(--neon2));
+            -webkit-background-clip: text;
+            color: transparent;
+            position: relative;
+            animation: headerGlow 3s infinite alternate;
+        }
+        @keyframes headerGlow {
+            0% { text-shadow: 0 0 10px var(--neon1); }
+            100% { text-shadow: 0 0 30px var(--neon4); }
+        }
+        .card-3d {
+            perspective: 1000px;
+            margin: 2rem;
+        }
+        .card-inner {
+            position: relative;
+            width: 100%;
+            height: 300px;
+            transition: transform 1s;
+            transform-style: preserve-3d;
+            background: rgba(255,255,255,0.1);
+            border-radius: 15px;
+            box-shadow: 0 0 30px var(--neon1);
+        }
+        .card-3d:hover .card-inner {
+            transform: rotateY(180deg);
+        }
+        .card-front, .card-back {
+            position: absolute;
+            width: 100%;
+            height: 100%;
+            backface-visibility: hidden;
+            padding: 20px;
+        }
+        .card-back {
+            transform: rotateY(180deg);
+            background: linear-gradient(45deg, #1a1a1a, #000);
+        }
+        .neon-text {
+            text-shadow: 0 0 10px currentColor;
+            animation: neonPulse 2s infinite;
+        }
+        @keyframes neonPulse {
+            0%,100% { opacity: 0.8; }
+            50% { opacity: 1; }
+        }
+        .particle {
+            position: fixed;
+            pointer-events: none;
+            background: var(--neon2);
+            border-radius: 50%;
+            animation: particleFly 1s forwards;
+        }
+        @keyframes particleFly {
+            to { transform: translateY(-100px) scale(0); opacity: 0; }
+        }
+        .barrage {
+            position: fixed;
+            white-space: nowrap;
+            font-size: 1.2rem;
+            color: var(--neon1);
+            text-shadow: 0 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="fireworks"></canvas>
+
+    <h1 class="cyber-header">❤️ 谢娇专属次元·冠呈全息投影 ❤️</h1>
+
+    <div class="card-3d">
+        <div class="card-inner">
+            <div class="card-front">
+                <h2 style="color: var(--neon1)">💌 冠呈の时空密信</h2>
+                <p style="color: var(--neon2)">「纵使数字洪流奔涌<br>你仍是代码世界唯一的光标」</p>
+                <button onclick="launchFirework()" 
+                        style="background: black;color: var(--neon3);
+                               border: 2px solid; padding: 10px; margin-top: 20px;">
+                    🎇 点燃星际烟火
+                </button>
+            </div>
+            <div class="card-back">
+                <h3 style="color: var(--neon4)">💖 2023心动代码</h3>
+                <pre style="color: var(--neon2)">
+while (future.exists()) {
+    myHeart.beatFor('谢娇');
+    if (you.smile()) {
+        world.setBrightness(MAX);
+    }
+}
+                </pre>
+            </div>
+        </div>
+    </div>
+
+    <div id="timeline"></div>
+
+    <script>
+        // 粒子烟花系统
+        const canvas = document.getElementById('fireworks');
+        const ctx = canvas.getContext('2d');
+        canvas.width = window.innerWidth;
+        canvas.height = window.innerHeight;
+        let particles = [];
+
+        class Particle {
+            constructor(x,y) {
+                this.x = x;
+                this.y = y;
+                this.alpha = 1;
+                this.color = `hsl(${Math.random()*360},100%,50%)`;
+                this.velocity = {
+                    x: Math.random()*6-3,
+                    y: Math.random()*6-8
+                };
+            }
+            draw() {
+                ctx.fillStyle = this.color;
+                ctx.beginPath();
+                ctx.arc(this.x, this.y, 2, 0, Math.PI*2);
+                ctx.fill();
+            }
+            update() {
+                this.velocity.y += 0.1;
+                this.x += this.velocity.x;
+                this.y += this.velocity.y;
+                this.alpha -= 0.01;
+                this.draw();
+            }
+        }
+
+        function animateFireworks() {
+            requestAnimationFrame(animateFireworks);
+            ctx.fillStyle = 'rgba(0,0,0,0.1)';
+            ctx.fillRect(0,0,canvas.width,canvas.height);
+            particles.forEach((p,i) => {
+                p.update();
+                if(p.alpha <= 0) particles.splice(i,1);
+            });
+        }
+        animateFireworks();
+
+        function launchFirework() {
+            const x = Math.random()*canvas.width;
+            const y = Math.random()*canvas.height;
+            for(let i=0; i<100; i++) {
+                particles.push(new Particle(x,y));
+            }
+            // 触发弹幕
+            createBarrage();
+        }
+
+        // 时空弹幕系统
+        const barrages = [
+            "冠呈の心跳频率：❤️谢娇❤️",
+            "Error: 谢娇美颜超载",
+            "System.out.print('爱你');",
+            "娇颜·神经网络过载警告",
+            "万冠呈: while(true){love(谢娇);}"
+        ];
+        function createBarrage() {
+            const barrage = document.createElement('div');
+            barrage.className = 'barrage';
+            barrage.style.top = Math.random()*80 + 10 + '%';
+            barrage.style.left = '100%';
+            barrage.textContent = barrages[Math.floor(Math.random()*barrages.length)];
+            document.body.appendChild(barrage);
+            
+            barrage.animate([
+                { transform: 'translateX(100vw)' },
+                { transform: 'translateX(-100%)' }
+            ], { duration: 8000, iterations: 1 }).onfinish = () => barrage.remove();
+        }
+
+        // 自动生成时空信标
+        setInterval(() => {
+            createParticle(Math.random()*window.innerWidth, window.innerHeight);
+            if(Math.random() > 0.8) createBarrage();
+        }, 1000);
+
+        function createParticle(x,y) {
+            const p = document.createElement('div');
+            p.className = 'particle';
+            p.style.left = x + 'px';
+            p.style.top = y + 'px';
+            p.style.width = p.style.height = Math.random()*3 + 'px';
+            document.body.appendChild(p);
+            setTimeout(() => p.remove(), 1000);
+        }
+    </script>
+</body>
+</html>
