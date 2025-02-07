@@ -74,7 +74,7 @@ a) AI for Science:
 
 - Public Health (*e.g.*, Epidemiology)
 
-- Physics (*e.g.*, Neural ODE, Dynamic System)
+- Physics (*e.g.*, Neural ODE, Dynamical System)
 
 b) TrustWorthy Graph Learning
 
@@ -87,6 +87,8 @@ c) Self-supervised Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.1:</em> ✨✨✨ Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
+  <li><em>2024.12:</em> ✨✨✨ One paper were accepted by <strong>AAAI 2025</strong>.</li>
   <li><em>2024.12:</em> I serve as a reviewer for <strong>ICML 2025</strong>.</li>
   <li><em>2024.11:</em> 🎈I was honored with <strong>Lei Jun Excellence Scholarship</strong> ~ <strong>100k</strong> (The <strong><u>Highest</u></strong> Scholarship at Wuhan University, <strong><u>Top-4</u></strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
   <li><em>2024.11:</em> I serve as a reviewer for <strong>CVPR 2025</strong>.</li>
@@ -114,6 +116,22 @@ c) Self-supervised Graph Learning
 # 📃 Publications 
 
 **&dagger; Equal Contribution**   
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedTGE.png">
+</dt>
+  <dd><a href=""><strong>	
+Energy-based Backdoor Defense Against Federated Graph Learning
+</strong></a></dd>
+<dd><strong><u>Guancheng Wan&dagger; </u></strong>, Zitong Shi&dagger;<span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+
+
+</dl>
+
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -196,6 +214,20 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <hr>
 
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/agentprune.png">
+</dt>
+  <dd><a href=""><strong>	
+Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
+</strong></a></dd>
+<dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
+<dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+
+
+</dl>
+
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -245,22 +277,6 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <hr>
 
 
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedTGE.png">
-</dt>
-  <dd><a href=""><strong>	
-Energy-based Backdoor Defense Against Federated Graph Learning
-</strong></a></dd>
-<!-- <dd>Zitong Shi&dagger;, <strong><u>Guancheng Wan&dagger; </u></strong><span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Dacheng Tao, Mang Ye</dd> -->
-<dd>under review, 2024</dd>
-
-
-</dl>
-
-<hr>
-
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/SPIDER.png">
@@ -268,7 +284,7 @@ hspace="10" wspace="20" src="../images/SPIDER.png">
   <dd><a href=""><strong>	
 Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning
 </strong></a></dd>
-<dd>under review, 2024</dd>
+<dd>under review, 2025</dd>
 
 
 </dl>
@@ -283,7 +299,7 @@ hspace="10" wspace="20" src="../images/EAGLES.png">
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
 </strong></a></dd>
-<dd>under review, 2024</dd>
+<dd>under review, 2025</dd>
 
 
 </dl>
