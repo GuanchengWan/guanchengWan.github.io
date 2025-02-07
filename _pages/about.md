@@ -125,7 +125,7 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href=""><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd><strong><u>Guancheng Wan&dagger; </u></strong>, Zitong Shi&dagger;<span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd><strong>Guancheng Wan&dagger; </strong>, Zitong Shi&dagger; <span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 
 
@@ -325,7 +325,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
  -->
 
 
-<hr>
+<!-- <hr> -->
 
 # 🎡 Service
 ## Conference Committee Member
