@@ -244,8 +244,6 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 
 
-<hr>
-
 
 # 📝 Manuscripts
 
