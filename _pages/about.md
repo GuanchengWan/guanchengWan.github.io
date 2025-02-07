@@ -122,7 +122,7 @@ c) Self-supervised Graph Learning
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
 </dt>
-  <dd><a href=""><strong>	
+  <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
 <dd><strong>Guancheng Wan&dagger; </strong>, Zitong Shi&dagger; <span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
@@ -218,7 +218,7 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/agentprune.png">
 </dt>
-  <dd><a href=""><strong>	
+  <dd><a href="https://openreview.net/forum?id=LkzuPorQ5L"><strong>	
 Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
 </strong></a></dd>
 <dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
