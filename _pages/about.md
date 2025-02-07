@@ -304,6 +304,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 </dl>
 
 
+
 <!-- 
 
 
@@ -324,7 +325,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
  -->
 
 
-<!-- <hr> -->
+<hr>
 
 # 🎡 Service
 ## Conference Committee Member
