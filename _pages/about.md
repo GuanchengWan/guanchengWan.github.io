@@ -69,14 +69,9 @@ I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.googl
 
 I am enthusiastic about modeling the relationship of these connections, particularly focusing on <u>geometric data</u>. Currently, my research interests revolve around three primary areas: 
 
-a) AI for Science:  
-- Bioinformatics (*e.g.*, Genomics)
+a) AI for Science: Genomics, Physics and Chemistry...
 
-- Public Health (*e.g.*, Epidemiology)
-
-- Physics (*e.g.*, Neural ODE, Dynamical System)
-
-b) Multi-Agent System
+b) LLM-based Multi-Agent System (MAS)
 
 c) TrustWorthy Graph Learning
 
