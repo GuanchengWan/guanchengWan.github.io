@@ -329,7 +329,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 # 🎡 Service
 ## Conference Committee Member
 - Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024, AISTATS'2025
-- Reviewer for CVPR'2024,2025, ECCV'2024
+- Reviewer for CVPR'2024,2025, ICCV'2025, ECCV'2024
 - Reviewer for AAAI'2024, 2025, ACM MM'2024
 - Reviewer for LoG'2024
 
