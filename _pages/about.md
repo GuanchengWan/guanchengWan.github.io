@@ -271,7 +271,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 </dl>
 
-
+<!-- 
 <hr>
 
 
@@ -300,7 +300,7 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 <dd>under review, 2025</dd>
 
 
-</dl>
+</dl> -->
 
 
 
