@@ -126,7 +126,7 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
 <dd><strong>Guancheng Wan&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
-<dd> <strong class="co-first"><u><i>Oral Presentation (1.8%)</i></u></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+<dd> <strong class="co-first"><i>Oral Presentation (1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 
 </dl>
 
