@@ -55,12 +55,12 @@ redirect_from:
 
 
 My name is Guancheng Wan (万冠呈), a 4<sup>th</sup>-year undergraduate student at the School of Computer Science, Wuhan University, advised by [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN) and [Mr. Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ).
-I am currently a Research Intern at UCLA, supervised by [Prof. Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Prof. Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
+I am currently a Research Assistant at UCLA, supervised by [Prof. Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Prof. Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
 Previously, I spent a wonderful summer at Emory University, supervised by [Prof. Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao) and collaborated with [Prof. B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
 I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [Prof. Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en), and [Prof. Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ).
+<!-- 
 
-
-🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
+🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
 
 
 # 🔎 Research 
@@ -76,9 +76,9 @@ a) AI for Science:
 
 - Physics (*e.g.*, Neural ODE, Dynamical System)
 
-b) TrustWorthy Graph Learning
+b) Multi-Agent System
 
-c) Self-supervised Graph Learning
+c) TrustWorthy Graph Learning
 
 <br/>
 
