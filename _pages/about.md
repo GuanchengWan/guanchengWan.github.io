@@ -17,7 +17,7 @@ redirect_from:
 
 
 dl dt img {
-  width: 300px; /* 设定统一宽度 */
+  width: 400px; /* 设定统一宽度 */
   height: 200px; /* 设定统一高度 */
   object-fit: contain; /* 确保图片不会被裁剪 */
   display: block;
