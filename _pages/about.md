@@ -19,7 +19,7 @@ redirect_from:
 
 dl dt img {
   width: 400px; /* 设置固定宽度 */
-  height: 150px; /* 设置固定高度 */
+  height: 200px; /* 设置固定高度 */
   object-fit: contain; /* 保持图片原比例，不裁剪 */
   display: block;
   margin: 0px 10px 10px 0px; /* 保持原来的间距 */
