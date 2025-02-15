@@ -14,11 +14,17 @@ redirect_from:
     clear: both;
   }
 
-  img {
-    display: block;
-    margin: 0px 10px 10px 0px; /* 图片居中 上右下左*/ 
-    max-width: 100%; /* 限制图片最大宽度 */
-  }
+
+
+
+dl dt img {
+  width: 300px; /* 设置固定宽度 */
+  height: 200px; /* 设置固定高度 */
+  object-fit: contain; /* 保持图片原比例，不裁剪 */
+  display: block;
+  margin: 0px 10px 10px 0px; /* 保持原来的间距 */
+}
+
 
   hr {
     border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
