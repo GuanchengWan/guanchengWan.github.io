@@ -16,14 +16,21 @@ redirect_from:
 
 
 
-
 dl dt img {
-  width: 400px; /* 设置固定宽度 */
-  height: 200px; /* 设置固定高度 */
-  object-fit: contain; /* 保持图片原比例，不裁剪 */
+  width: 300px; /* 设定统一宽度 */
+  height: 200px; /* 设定统一高度 */
+  object-fit: contain; /* 确保图片不会被裁剪 */
   display: block;
-  margin: 0px 10px 10px 0px; /* 保持原来的间距 */
+  margin: 10px 10px 10px 0px; /* 适当的间距 */
+  
+  /* 添加美化效果 */
+  border-radius: 8px; /* 让图片有轻微的圆角 */
+  border: 2px solid #ddd; /* 添加淡灰色的边框 */
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
+  padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
+  background-color: #fff; /* 设置背景色，让图片更加干净 */
 }
+
 
 
   hr {
