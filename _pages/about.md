@@ -80,8 +80,8 @@ I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.googl
 # 🔎 Research 
 <!-- "All things are interconnected, this is the essence of nature."  -->
 
-<dt style="margin: 0; padding: 0;">
-  <img src="../images/research.png" style="display: block; width: 100%; height: auto; margin: 0; padding: 0;">
+<dt style="text-align: center; margin: 0; padding: 0;">
+  <img src="../images/research.png" style="display: block; max-width: 800px; width: 100%; height: auto; margin: 0 auto;">
 </dt>
 
 I am passionate about modeling the relationships among all points (*e.g.*, nodes, tokens, or agents). My current research interests focus on three key areas:
