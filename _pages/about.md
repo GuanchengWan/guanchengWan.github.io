@@ -340,10 +340,9 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 # 🎡 Service
 ## Conference Committee Member
-- Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024, AISTATS'2025
-- Reviewer for CVPR'2024,2025, ICCV'2025, ECCV'2024
-- Reviewer for AAAI'2024, 2025, ACM MM'2024
-- Reviewer for LoG'2024
+- Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025
+- Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024
+- Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025
 
 ##  Journal Reviewer
 - Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
@@ -412,9 +411,6 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
   <summary><strong>Poems that inspire me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
   <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
-
-
-
 </details>
 
 
