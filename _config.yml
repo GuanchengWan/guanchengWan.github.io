@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Guancheng Wan's Homepage"
-description              : "gwan4 [at] emory.edu"
+description              : "gcwan03 [at] ucla.edu"
 repository               : "GuanchengWan/guanchengWan.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=pB8zP9UAAAAJ"
-  email            : "gwan4@emory.edu"
+  email            : "gcwan03@ucla.edu"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -39,7 +39,7 @@ author:
   facebook         :
   foursquare       :
   github           : "GuanchengWan"
-  google_plus      : 
+  google_plus      : 1
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
