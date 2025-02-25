@@ -384,7 +384,6 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
     <div style="flex: 1; font-size: 1.1em;">
       <strong>2021.09 - Now</strong><br/>
       Undergraduate, School of Computer Science, Wuhan University, China<br/>
-      <em>GPA: 3.9/4.0, Rank: 1/252</em>
     </div>
     <div style="flex-shrink: 0; max-width: 100px;">
       <img src="../images/WHU.jpeg" alt="Wuhan University Logo" style="width: 100%; height: auto; object-fit: contain;" />
