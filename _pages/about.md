@@ -377,17 +377,32 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 <br/>
 
-# 📖 Educations
+# 📖 Education
 
-- Wuhan University <img src="../images/WHU.jpeg" alt="WHU Insignia" style="float: right; width: 100px;"/>
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2021.09 - Now</strong><br/>
+      Undergraduate, School of Computer Science, Wuhan University, China<br/>
+      <em>GPA: 3.9/4.0, Rank: 1/252</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 150px;">
+      <img src="../images/WHU.jpeg" alt="Wuhan University Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
 
-  Undergraduate, School of Computer Science, 2021.09 - Now (GPA: 3.9/4.0, Rank: 1/252)
-
-<br><br>
-
-- The Attached Middle School To Jiangxi Normal University <img src="images/insignia/jsnu.png" alt="JSNU Insignia" style="float: right; width: 100px;"/>
-
-  High School, 2018.09 - 2021.06
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2018.09 - 2021.06</strong><br/>
+      High School, The Attached Middle School To Jiangxi Normal University
+    </div>
+    <div style="flex-shrink: 0; max-width: 150px;">
+      <img src="your-logo-path-2.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
 
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
