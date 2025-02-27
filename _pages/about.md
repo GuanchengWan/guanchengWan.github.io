@@ -104,7 +104,7 @@ c) TrustWorthy Graph Learning
 
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models</strong>. Thanks to all collaborators! See you in Nashville.</li>
+  <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2025.01:</em> 🎉 Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
   <li><em>2024.12:</em> 🎉 One paper was accepted by <strong>AAAI 2025</strong>.</li>
   <li><em>2024.12:</em> I serve as a reviewer for <strong>ICML 2025</strong>.</li>
