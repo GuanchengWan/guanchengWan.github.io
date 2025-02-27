@@ -131,10 +131,9 @@ c) TrustWorthy Graph Learning
 
 <br/>
 
-# 📃 Publications 
+# 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
 
 **&dagger; Equal Contribution**   
-
 
 <dl>
   <dt><img align="left" width="400"
