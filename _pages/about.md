@@ -95,7 +95,7 @@ a) (Multimodal) Large Language Models (LLMs), LLM-based Multi-Agent System (MAS)
 
 b) AI for Science: Genomics, Physics and Chemistry...
 
-c) TrustWorthy Graph Learning
+c) Trustworthy Graph Learning
 
 <br/>
 
