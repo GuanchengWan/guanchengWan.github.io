@@ -142,12 +142,52 @@ hspace="10" wspace="20" src="../images/FedTGE.png">
   <dd><a href="https://openreview.net/forum?id=5Jc7r5aqHJ"><strong>	
 Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
-<dd><strong>Guancheng Wan&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
+<dd><strong><strong>Guancheng Wan</strong>&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd> <strong class="co-first"><i>Oral Presentation (1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 
 </dl>
 
 <hr>
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedSPA.png">
+</dt>
+  <dd><a href=""><strong>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</strong></a></dd>
+  <dd><strong>Zihan Tan&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
+  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/LoRASculpt.png">
+</dt>
+  <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
+  <dd><strong>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
+  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EMOE.png">
+</dt>
+  <dd><a href=""><strong>EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</strong></a></dd>
+  <dd><strong>Yiyang Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Kehua Su, Mang Ye</dd>
+  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+
 
 <dl>
   <dt><img align="left" width="400"
