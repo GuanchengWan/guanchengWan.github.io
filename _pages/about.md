@@ -55,6 +55,10 @@ redirect_from:
     color: red;
   }
 
+  .down {
+    transform: rotate(180deg);
+  }
+
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -67,7 +71,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none';"><span style="color: gray;">► How to pronounce?</span></span>
+My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.triangle').classList.toggle('down');"><span class="triangle" style="display: inline-block; width: 0; height: 0; border-left: 5px solid transparent; border-right: 5px solid transparent; border-bottom: 5px solid black; margin-right: 5px;"></span><span style="color: gray;">► How to pronounce?</span></span>
 <span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, a 4<sup>th</sup>-year undergraduate student at Wuhan University CS, working closely with [Prof. Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). I am an incoming CS PhD student (25 Fall) at UCLA, supervised by [Prof. Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Prof. Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ).
 
 Previously, I spent a wonderful summer at Emory University, supervised by [Prof. Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Prof. Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
