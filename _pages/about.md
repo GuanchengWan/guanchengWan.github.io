@@ -155,8 +155,8 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 hspace="10" wspace="20" src="../images/FedSPA.png">
 </dt>
   <dd><a href=""><strong>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</strong></a></dd>
-  <dd><strong>Zihan Tan&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
-  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd>Zihan Tan&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -167,8 +167,8 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
 hspace="10" wspace="20" src="../images/LoRASculpt.png">
 </dt>
   <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
-  <dd><strong>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
-  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -180,13 +180,11 @@ hspace="10" wspace="20" src="../images/LoRASculpt.png">
 hspace="10" wspace="20" src="../images/EMOE.png">
 </dt>
   <dd><a href=""><strong>EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</strong></a></dd>
-  <dd><strong>Yiyang Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Kehua Su, Mang Ye</dd>
-  <dd><strong>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd>Yiyang Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan &dagger;</strong> <span class="co-first">(co-first)</span>, Kehua Su, Mang Ye</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
 <hr>
-
-
 
 
 <dl>
