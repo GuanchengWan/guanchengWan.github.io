@@ -102,7 +102,7 @@ c) Trustworthy Graph Learning
 # 🔥 News
 
 
-<div style="max-height: 200px; overflow-y: auto;">
+<div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>
