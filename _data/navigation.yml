@@ -18,6 +18,11 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
+
+
+  - title: "Miscellaneous"
+    url: "/#-Miscellaneous"
+
   # - title: "Activities"
   #   url: "/#-activities"
 

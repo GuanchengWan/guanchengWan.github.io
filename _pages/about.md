@@ -420,7 +420,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 
 <br/>
 
-# 📖 Education
+# 📖 Educations
 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
