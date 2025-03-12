@@ -91,11 +91,11 @@ I was also fortunate to work with [Prof. Nitesh V. Chawla](https://scholar.googl
 
 I am passionate about modeling the relationships among all points (*e.g.*, nodes, tokens, or agents). My current research interests focus on three key areas:
 
-a) (Multimodal) Large Language Models (LLMs), LLM-based Multi-Agent System (MAS)
+a) (Multimodal) Large Language Models (LLMs), Large Reasoning Models (LRMs), LLM-based Multi-Agent System (MAS)
 
 b) AI for Science: Genomics, Physics and Chemistry...
 
-c) Trustworthy Graph Learning
+c) Trustworthy (Graph) Learning
 
 <br/>
 
