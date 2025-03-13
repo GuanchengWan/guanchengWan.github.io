@@ -303,6 +303,18 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 📝 Manuscripts
 
+
+- **Rethink GraphODE Generalization within Coupled Dynamical System**  
+**Guancheng Wan**, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang  
+
+- **Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph**  
+**Guancheng Wan**, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin  
+
+- **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
+
+- **Protein Large Language Models: A Comprehensive Survey**
+
+<!-- 
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/GREAT.png">
@@ -325,7 +337,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
 <dd>under review, 2025</dd>
 
-</dl>
+</dl> -->
 
 <!-- 
 <hr>
