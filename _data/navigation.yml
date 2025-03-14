@@ -7,11 +7,11 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-Selected Publications"
+    url: "/#-selected-publications"
 
 
   - title: "Manuscripts"
-    url: "/#-Manuscripts"
+    url: "/#-manuscripts"
   
   # - title: "Competition Awards"
   #   url: "/#-competition-awards"
@@ -24,7 +24,7 @@ main:
 
 
   - title: "Miscellaneous"
-    url: "/#-Miscellaneous"
+    url: "/#-miscellaneous"
 
   # - title: "Activities"
   #   url: "/#-activities"
