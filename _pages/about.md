@@ -437,7 +437,19 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
-      <strong>2021.09 - Now</strong><br/>
+      <strong>2025.09 - Now</strong><br/>
+      PhD, Computer Science, University of California, Los Angeles (UCLA)<br/>
+    </div>
+    <div style="flex-shrink: 0; max-width: 100px;">
+      <img src="../images/UCLA.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 20px;">
+    <div style="flex: 1; font-size: 1.1em;">
+      <strong>2021.09 - 2025.06</strong><br/>
       Undergraduate, School of Computer Science, Wuhan University<br/>
     </div>
     <div style="flex-shrink: 0; max-width: 100px;">
