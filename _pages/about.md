@@ -395,15 +395,24 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 <hr>
 
 # 🎡 Service
+## Program Chair
+- [FedKDD 2025 Workshop@KDD 2025](https://fedkdd.github.io/fedkdd2025/)
+
+
 ## Conference Committee Member
 - Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025
 - Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024
 - Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025
 
 ##  Journal Reviewer
-- Reviewer for IEEE Transactions on Information Forensics and Security (TIFS)
-- Reviewer for IEEE Transactions on Knowledge and Data Engineering (TKDE)
-- Reviewer for IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE TIFS
+- IEEE TKDE
+- IEEE TNNLS
+- IEEE TIP
+- ACM TKDD
+- Pattern Recognition (PR)
+- Data-centric Machine Learning Research (DMLR)
+
 <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
 
