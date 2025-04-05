@@ -104,6 +104,7 @@ c) Trustworthy (Graph) Learning
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt</strong> (MLLM visual instruction tuning) was selected as an <strong>Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>
   <li><em>2025.01:</em> 🎉 Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
@@ -169,7 +170,7 @@ hspace="10" wspace="20" src="../images/LoRASculpt.png">
 </dt>
   <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
   <dd>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
-  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd><strong class="co-first"><i>Oral Presentation (Top 3.3%)</i></strong> in Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -405,10 +406,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 - Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025
 
 ##  Journal Reviewer
-- IEEE TIFS
-- IEEE TKDE
-- IEEE TNNLS
-- IEEE TIP
+- IEEE TIFS, TIP, TKDE, TNNLS
 - ACM TKDD
 - Pattern Recognition (PR)
 - Data-centric Machine Learning Research (DMLR)
