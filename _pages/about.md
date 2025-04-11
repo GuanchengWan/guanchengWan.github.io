@@ -104,7 +104,7 @@ c) Trustworthy (Graph) Learning
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt</strong> (MLLM visual instruction tuning) was selected as an <strong>Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
+  <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>
   <li><em>2025.01:</em> 🎉 Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
