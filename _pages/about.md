@@ -105,6 +105,7 @@ c) Trustworthy (Graph) Learning
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
+    <li><em>2025.03:</em> 🎉 One co-first authored paper: <strong>FedTGE</strong> was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>
   <li><em>2025.01:</em> 🎉 Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
@@ -285,7 +286,7 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 <hr>
 
-<!-- <dl>
+<dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FDCR.png">
 </dt>
@@ -298,7 +299,23 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 </dl>
 
 
-<hr> -->
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/LFBA.png">
+</dt>
+  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
+Label-free backdoor attacks in vertical federated learning</strong></a></dd>
+  <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
+  </dd>
+    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
+
+    
+</dl>
+
+
+<hr>
 
 
 
