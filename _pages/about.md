@@ -312,6 +312,8 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 - **Protein Large Language Models: A Comprehensive Survey**
 
+- **A Comprehensive Survey in LLM (-Agent) Full Stack Safety: Data, Training and Deployment**
+
 <!-- 
 <dl>
   <dt><img align="left" width="400"
