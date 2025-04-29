@@ -138,6 +138,10 @@ c) Trustworthy (Graph) Learning
 
 **&dagger; Equal Contribution**   
 
+<div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
+2025 
+</div>
+
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/FedTGE.png">
@@ -147,11 +151,9 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 </strong></a></dd>
 <dd><strong><strong>Guancheng Wan</strong>&dagger;</strong>, Zitong Shi&dagger;, Wenke Huang&dagger;, Guibin Zhang, Dacheng Tao, Mang Ye</dd>
 <dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
-
 </dl>
 
 <hr>
-
 
 <dl>
   <dt><img align="left" width="400"
@@ -164,7 +166,6 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
 
 <hr>
 
-
 <dl>
   <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/LoRASculpt.png">
@@ -175,8 +176,6 @@ hspace="10" wspace="20" src="../images/LoRASculpt.png">
 </dl>
 
 <hr>
-
-
 
 <dl>
   <dt><img align="left" width="400"
@@ -189,6 +188,35 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 <hr>
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/agentprune.png">
+</dt>
+  <dd><a href="https://openreview.net/forum?id=LkzuPorQ5L"><strong>	
+Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
+</strong></a></dd>
+<dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
+<dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/LFBA.png">
+</dt>
+  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
+Label-free backdoor attacks in vertical federated learning</strong></a></dd>
+  <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
+  </dd>
+    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
+2024
+</div>
 
 <dl>
   <dt><img align="left" width="400"
@@ -200,9 +228,7 @@ hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
     <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2024 </dd>
 </dl>
 
-
-<hr >
-
+<hr>
 
 <dl>
   <dt><img align="left" width="400"
@@ -211,77 +237,6 @@ hspace="10" wspace="20" src="../images/FedSSP.png">
   <dd><a href="https://arxiv.org/pdf/2410.20105"><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
 <dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
 <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
-</dl>
-
-<hr>
-
-
-<dl >
-  <dt><img align="left"  width="400"
- wspace="20" hspace="10" src="../images/fggp.png"></dt>
-  <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
-  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
-    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
-
-</dl>
-
-
-
-<hr>
-
-
-<dl >
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/episurvey.png">
-</dt>
-  <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671455"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
-    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
-    <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
-</dl>
-
-<hr>
-
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
-  <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
-  <dd>Wenke Huang&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
-  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
-</dl>
-
-<hr>
-
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/flsurvey.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
-  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
-  </dd>
-    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
-    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
-</dl>
-
-
-<hr>
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/agentprune.png">
-</dt>
-  <dd><a href="https://openreview.net/forum?id=LkzuPorQ5L"><strong>	
-Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
-</strong></a></dd>
-<dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
-<dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
-
-
 </dl>
 
 <hr>
@@ -295,29 +250,54 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du
   </dd>
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
-    
 </dl>
 
+<hr>
+
+<dl>
+  <dt><img align="left"  width="400"
+ wspace="20" hspace="10" src="../images/fggp.png"></dt>
+  <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
+  <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
+    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
+</dl>
 
 <hr>
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/LFBA.png">
+hspace="10" wspace="20" src="../images/episurvey.png">
 </dt>
-  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
-Label-free backdoor attacks in vertical federated learning</strong></a></dd>
-  <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
-  </dd>
-    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
-
-    
+  <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671455"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
+<dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+    <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
+    <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
 </dl>
-
 
 <hr>
 
+<dl>
+  <dt><img align="left" width="400"
+hspace="10"   wspace="20" src="../images/fgssl.png"></dt>
+  <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
+  <dd>Wenke Huang&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
+  <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
+</dl>
 
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/flsurvey.png">
+</dt>
+  <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
+  <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
+  </dd>
+    <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
+    <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
+</dl>
+
+<hr>
 
 # 📝 Manuscripts
 
