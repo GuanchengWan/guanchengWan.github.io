@@ -14,6 +14,25 @@ redirect_from:
     clear: both;
   }
 
+  /* 全局文本颜色 */
+  body {
+    color: #333; /* 主要文本颜色 */
+  }
+
+  /* 链接颜色 */
+  a {
+    color: #0066cc; /* 链接颜色 */
+  }
+
+  /* 作者名字颜色 */
+  strong {
+    color: #000; /* 作者名字颜色 */
+  }
+
+  /* 年份标题颜色 */
+  .year-title {
+    color: #666;
+  }
 
 
   dl dt img {
@@ -211,6 +230,20 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   </dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
 </dl>
+
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedPrompt.png">
+</dt>
+  <dd><a href=""><strong>An Empirical Study of Federated Prompt Learning for Vision Language Model</strong></a></dd>
+  <dd>Zhihao Wang, Wenke Huang, Tian Chen, Zekun Shi, <strong>Guancheng Wan</strong>, Yu Qiao, Bin Yang, Jian Wang, Bing Li, Mang Ye</dd>
+  <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
+</dl>
+
+
 
 <hr>
 
