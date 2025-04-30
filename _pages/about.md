@@ -12,6 +12,7 @@ redirect_from:
   dl {
     margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
     clear: both;
+    overflow: hidden;
   }
 
   /* 全局文本颜色 */
@@ -63,6 +64,7 @@ redirect_from:
     position: relative;
     display: inline-block;
     transition: all 0.3s ease;
+    float: left;
   }
 
   .image-container:hover {
@@ -71,6 +73,8 @@ redirect_from:
 
   dl dt {
     position: relative;
+    float: left;
+    margin-right: 20px;
   }
 
   dl dt img {
@@ -78,7 +82,7 @@ redirect_from:
     height: 200px;
     object-fit: cover;
     display: block;
-    margin: 10px 10px 10px 0px;
+    margin: 0;
     border-radius: 8px;
     border: 2px solid #ddd;
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
@@ -98,13 +102,14 @@ redirect_from:
   }
 
   dl dd {
-  margin-top: 5px; 
-  margin-bottom: 5px;
-}
+    margin-top: 5px;
+    margin-bottom: 5px;
+    overflow: hidden;
+  }
 
   dl dd strong {
-  font-weight: bold;
-  color: black;
+    font-weight: bold;
+    color: black;
   }
 
   .co-first {
