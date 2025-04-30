@@ -10,7 +10,7 @@ redirect_from:
 
 <style>
   dl {
-    margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
+    margin-bottom: 15px;  /* 从60px减小到15px */
     clear: both;
     overflow: hidden;
   }
@@ -39,7 +39,7 @@ redirect_from:
   .conference-label {
     position: absolute;
     top: 12px;
-    left: 5px;
+    left: -5px;
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.75));
     color: white;
     padding: 6px 12px;
@@ -96,14 +96,15 @@ redirect_from:
   }
 
   hr {
-    border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
-    /* margin: 10px;  */
-    clear: both; 
+    border: none;
+    border-top: 1px solid #ebebeb;
+    margin: 10px 0;  /* 减小hr的上下margin */
+    clear: both;
   }
 
   dl dd {
-    margin-top: 5px;
-    margin-bottom: 5px;
+    margin-top: 3px;  /* 从5px减小到3px */
+    margin-bottom: 3px;  /* 从5px减小到3px */
     overflow: hidden;
   }
 
