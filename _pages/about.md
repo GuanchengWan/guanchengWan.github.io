@@ -38,7 +38,7 @@ redirect_from:
   .conference-label {
     position: absolute;
     top: 12px;
-    left: 0px;
+    left: 5px;
     background: linear-gradient(135deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.75));
     color: white;
     padding: 6px 12px;
