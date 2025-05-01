@@ -214,17 +214,16 @@ hspace="10" wspace="20" src="../images/GREAT.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EARTH.png">
-<span class="conference-label">ICML 2025</span>
+hspace="10" wspace="20" src="../images/LoRASculpt.png">
+<span class="conference-label">CVPR 2025</span>
 </dt>
-  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+  <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
+  <dd>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
+  <dd><strong class="co-first"><i>Oral Presentation (Top 3.3%)</i></strong> in Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
-
-
 <hr>
+
 
 <dl>
   <dt><img align="left" width="400"
@@ -238,15 +237,17 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
 
 <hr>
 
+
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/LoRASculpt.png">
-<span class="conference-label">CVPR 2025</span>
+hspace="10" wspace="20" src="../images/EARTH.png">
+<span class="conference-label">ICML 2025</span>
 </dt>
-  <dd><a href=""><strong>LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models</strong></a></dd>
-  <dd>Jian Liang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Qu Yang, Mang Ye</dd>
-  <dd><strong class="co-first"><i>Oral Presentation (Top 3.3%)</i></strong> in Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
+<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 
