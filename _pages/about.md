@@ -207,7 +207,7 @@ hspace="10" wspace="20" src="../images/GREAT.png">
 </dt>
   <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
 <dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
-<dd>  <strong class="co-first"><i>Spotlight Presentation </i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+<dd>  <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
 <hr>
