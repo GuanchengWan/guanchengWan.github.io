@@ -10,9 +10,8 @@ redirect_from:
 
 <style>
   dl {
-    margin-bottom: 15px;  /* 从60px减小到15px */
+    margin-bottom: 60px; /* 调整这个值以获得合适的间距 */
     clear: both;
-    overflow: hidden;
   }
 
   /* 全局文本颜色 */
@@ -38,79 +37,56 @@ redirect_from:
   /* 会议标签样式 */
   .conference-label {
     position: absolute;
-    top: 12px;
-    left: -5px;
-    background: linear-gradient(135deg, rgba(0, 0, 0, 0.85), rgba(0, 0, 0, 0.75));
+    top: 10px;
+    left: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
     color: white;
-    padding: 6px 12px;
-    border-radius: 6px;
-    font-size: 0.85em;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    text-transform: uppercase;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    backdrop-filter: blur(2px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    transition: all 0.3s ease;
-  }
-
-  .conference-label:hover {
-    transform: translateY(-1px);
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    padding: 4px 8px;
+    border-radius: 4px;
+    font-size: 0.9em;
+    font-weight: bold;
+    z-index: 1;
   }
 
   /* 图片容器样式 */
   .image-container {
     position: relative;
     display: inline-block;
-    transition: all 0.3s ease;
-    float: left;
-  }
-
-  .image-container:hover {
-    transform: translateY(-2px);
   }
 
   dl dt {
     position: relative;
-    float: left;
-    margin-right: 20px;
   }
 
   dl dt img {
-    width: 400px;
-    height: 200px;
-    object-fit: cover;
+    width: 400px; /* 设定统一宽度 */
+    height: 200px; /* 设定统一高度 */
+    object-fit: cover; /* 确保图片不会被裁剪 */
     display: block;
-    margin: 0;
-    border-radius: 8px;
-    border: 2px solid #ddd;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
-    padding: 5px;
-    background-color: #fff;
-    transition: all 0.3s ease;
-  }
-
-  dl dt img:hover {
-    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.3);
+    margin: 10px 10px 10px 0px; /* 适当的间距 */
+    
+    /* 添加美化效果 */
+    border-radius: 8px; /* 让图片有轻微的圆角 */
+    border: 2px solid #ddd; /* 添加淡灰色的边框 */
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2); /* 添加轻微阴影 */
+    padding: 5px; /* 给图片一些内边距，让它不贴着边框 */
+    background-color: #fff; /* 设置背景色，让图片更加干净 */
   }
 
   hr {
-    border: none;
-    border-top: 1px solid #ebebeb;
-    margin: 10px 0;  /* 减小hr的上下margin */
-    clear: both;
+    border: 1px solid #ebebeb; /* 调整分隔线的颜色和样式 */
+    /* margin: 10px;  */
+    clear: both; 
   }
 
   dl dd {
-    margin-top: 3px;  /* 从5px减小到3px */
-    margin-bottom: 3px;  /* 从5px减小到3px */
-    overflow: hidden;
-  }
+  margin-top: 5px; 
+  margin-bottom: 5px;
+}
 
   dl dd strong {
-    font-weight: bold;
-    color: black;
+  font-weight: bold;
+  color: black;
   }
 
   .co-first {
