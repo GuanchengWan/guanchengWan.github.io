@@ -266,6 +266,67 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 <dl>
   <dt><img align="left" width="400"
+  hspace="10" wspace="20" src="../images/GHOST.png">
+  <span class="conference-label">ICML 2025</span>
+  </dt>
+  <dd><a href=""><strong>GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</strong></a></dd>
+  <dd>Jiaru Qian&dagger;, <strong>Guancheng Wan</strong>&dagger;, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+  hspace="10" wspace="20" src="../images/EAGLES.png">
+  <span class="conference-label">ICML 2025</span>
+  </dt>
+  <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
+  <dd>Zitong Shi&dagger;, <strong>Guancheng Wan</strong>&dagger;, Guibin Zhang, Wenke Huang, He Li, Carl Yang, Mang Ye</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+  hspace="10" wspace="20" src="../images/G-Designer.png">
+  <span class="conference-label">ICML 2025</span>
+  </dt>
+  <dd><a href=""><strong>G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks</strong></a></dd>
+  <dd>Guibin Zhang, Yanwei Yue, Xiangguo Sun, <strong>Guancheng Wan</strong>, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, Dawei Cheng</dd>
+  <dd> <strong class="co-first"><i>Spotlight Presentation (Top 2.2%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+  hspace="10" wspace="20" src="../images/BeConfident.png">
+  <span class="conference-label">ICML 2025</span>
+  </dt>
+  <dd><a href=""><strong>Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</strong></a></dd>
+  <dd>Wenke Huang, Jian Liang, <strong>Guancheng Wan</strong>&dagger;, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+  hspace="10" wspace="20" src="../images/LearnFromDownstream.png">
+  <span class="conference-label">ICML 2025</span>
+  </dt>
+  <dd><a href=""><strong>Learn from Downstream and Be Yourself in Multimodal Large Language Models Fine-Tuning</strong></a></dd>
+  <dd>Wenke Huang, Jian Liang, Zekun Shi, Didi Zhu, <strong>Guancheng Wan</strong>, He Li, Bo Du, Dacheng Tao, Mang Ye</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+  <dt><img align="left" width="400"
 hspace="10" wspace="20" src="../images/agentprune.png">
 <span class="conference-label">ICLR 2025</span>
 </dt>
