@@ -195,6 +195,32 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 <dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 </dl>
 
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/GREAT.png">
+<span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
+<dd>  <strong class="co-first"><i>Spotlight Presentation </i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/EARTH.png">
+<span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
+<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+
+
 <hr>
 
 <dl>
@@ -384,31 +410,6 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 - **Protein Large Language Models: A Comprehensive Survey**
 
 - **A Comprehensive Survey in LLM (-Agent) Full Stack Safety: Data, Training and Deployment**
-
-<!-- 
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/GREAT.png">
-</dt>
-  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
-<dd>under review, 2025</dd>
-
-</dl>
-
-
-<hr>
-
-
-<dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EARTH.png">
-</dt>
-  <dd><a href="https://arxiv.org/abs/2410.00049"><strong>Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin</dd>
-<dd>under review, 2025</dd>
-
-</dl> -->
 
 <!-- 
 <hr>
