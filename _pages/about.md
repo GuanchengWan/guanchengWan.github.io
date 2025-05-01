@@ -146,6 +146,7 @@ c) Trustworthy (Graph) Learning
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
+  <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> two Spotlights</strong>. See you in Vancouver!</li>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
     <li><em>2025.03:</em> 🎉 One co-first authored paper: <strong>FedTGE</strong> was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
@@ -401,13 +402,6 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 <hr>
 
 # 📝 Manuscripts
-
-
-- **Rethink GraphODE Generalization within Coupled Dynamical System**  
-**Guancheng Wan**, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang  
-
-- **Epidemiology-Aware Neural ODE with Continuous Disease Transmission Graph**  
-**Guancheng Wan**, Zewen Liu, Xiaojun Shan, Max S.Y. Lau, B. Aditya Prakash, Wei Jin  
 
 - **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
 
