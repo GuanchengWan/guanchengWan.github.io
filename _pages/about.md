@@ -38,7 +38,7 @@ redirect_from:
   .conference-label {
     position: absolute;
     top: 10px;
-    left: 10px;
+    left: -5px;
     background-color: #2c3e50;  /* 深蓝色背景 */
     color: white;  /* 白色文字 */
     padding: 6px 12px;
@@ -49,6 +49,7 @@ redirect_from:
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
     z-index: 1;
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-style: italic;  /* 添加斜体 */
   }
 
   /* 鼠标悬停效果 */
@@ -195,6 +196,7 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 <dd> <strong class="co-first"><i>Oral Presentation (Top 1.8%)</i></strong> in International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 </dl>
 
+<hr>
 
 
 <dl>
@@ -207,6 +209,7 @@ hspace="10" wspace="20" src="../images/GREAT.png">
 <dd>  <strong class="co-first"><i>Spotlight Presentation </i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
+<hr>
 
 
 <dl>
