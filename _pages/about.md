@@ -146,7 +146,7 @@ c) Trustworthy (Graph) Learning
 
 <div style="max-height: 250px; overflow-y: auto;">
 <ul>
-  <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> two Spotlights</strong>. See you in Vancouver!</li>
+  <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> Two Spotlights (Top 2.6%)</strong>. See you in Vancouver!</li>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
     <li><em>2025.03:</em> 🎉 One co-first authored paper: <strong>FedTGE</strong> was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
@@ -270,7 +270,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
   <dd><a href=""><strong>GHOST: Generalizable One-Shot Federated Graph Learning with Proxy-Based Topology Knowledge Retention</strong></a></dd>
-  <dd>Jiaru Qian&dagger;, <strong>Guancheng Wan</strong>&dagger;, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
+  <dd>Jiaru Qian&dagger;, <strong>Guancheng Wan</strong>&dagger; <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
@@ -282,7 +282,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
   <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
-  <dd>Zitong Shi&dagger;, <strong>Guancheng Wan</strong>&dagger;, Guibin Zhang, Wenke Huang, He Li, Carl Yang, Mang Ye</dd>
+  <dd>Zitong Shi&dagger;, <strong>Guancheng Wan</strong>&dagger; <span class="co-first">(co-first)</span>, Guibin Zhang, Wenke Huang, He Li, Carl Yang, Mang Ye</dd>
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
@@ -290,12 +290,12 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 <dl>
   <dt><img align="left" width="400"
-  hspace="10" wspace="20" src="../images/G-Designer.png">
+  hspace="10" wspace="20" src="../images/Gdesigner.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
   <dd><a href=""><strong>G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks</strong></a></dd>
   <dd>Guibin Zhang, Yanwei Yue, Xiangguo Sun, <strong>Guancheng Wan</strong>, Miao Yu, Junfeng Fang, Kun Wang, Tianlong Chen, Dawei Cheng</dd>
-  <dd> <strong class="co-first"><i>Spotlight Presentation (Top 2.2%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+  <dd> <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -306,7 +306,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
   <dd><a href=""><strong>Be Confident: Uncovering Overfitting in MLLM Multi-Task Tuning</strong></a></dd>
-  <dd>Wenke Huang, Jian Liang, <strong>Guancheng Wan</strong>&dagger;, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
+  <dd>Wenke Huang, Jian Liang, <strong>Guancheng Wan</strong>, Didi Zhu, He Li, Jiawei Shao, Mang Ye, Bo Du, Dacheng Tao</dd>
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
@@ -339,6 +339,8 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
 </dl>
 
+<hr>
+
 <dl>
   <dt><img align="left" width="400"
   hspace="10" wspace="20" src="../images/LearnFromDownstream.png">
@@ -349,7 +351,6 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
-<hr>
 
 
 <hr>
