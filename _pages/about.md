@@ -118,11 +118,10 @@ My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: 
 
 Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
 and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
-<!-- I was also fortunate to work with [Nitesh V. Chawla](https://scholar.google.com/citations?hl=en&user=hDLBEhkAAAAJ), [Qiang Yang](https://scholar.google.com/citations?user=1LxWZLQAAAAJ&hl=en), and [Dacheng Tao](https://scholar.google.com/citations?user=RwlJNLcAAAAJ). -->
 
-
-<!-- 🌟 I'm actively applying for a Ph.D. position in 2025 Fall! <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span> -->
-
+<div style="text-align: left; margin: 20px 0;">
+  <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
+</div>
 
 # 🔎 Research 
 <!-- "All things are interconnected, this is the essence of nature."  -->
@@ -265,7 +264,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/GHOST.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -277,7 +276,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/EAGLES.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -289,7 +288,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/Gdesigner.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -301,7 +300,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/BeConfident.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -314,24 +313,24 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/agentprune.png">
-<span class="conference-label">ICLR 2025</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/agentprune.png">
+  <span class="conference-label">ICLR 2025</span>
+  </dt>
   <dd><a href="https://openreview.net/forum?id=LkzuPorQ5L"><strong>	
 Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Systems
 </strong></a></dd>
-<dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
-<dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
+  <dd>Guibin Zhang, Yanwei Yue, Zhixun Li, Sukwon Yun, <strong>Guancheng Wan</strong>, Kun Wang, Dawei Cheng, Jeffrey Xu Yu, Tianlong Chen</dd>
+  <dd>International Conference on Learning Representations (<strong>ICLR</strong>), 2025</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/LFBA.png">
-<span class="conference-label">AAAI 2025</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/LFBA.png">
+  <span class="conference-label">AAAI 2025</span>
+  </dt>
   <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
 Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
@@ -342,7 +341,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/LearnFromDownstream.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -356,10 +355,10 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedPrompt.png">
-<span class="conference-label">IJCAI 2025</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/FedPrompt.png">
+  <span class="conference-label">IJCAI 2025</span>
+  </dt>
   <dd><a href=""><strong>An Empirical Study of Federated Prompt Learning for Vision Language Model</strong></a></dd>
   <dd>Zhihao Wang, Wenke Huang, Tian Chen, Zekun Shi, <strong>Guancheng Wan</strong>, Yu Qiao, Bin Yang, Jian Wang, Bing Li, Mang Ye</dd>
   <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
@@ -374,35 +373,35 @@ hspace="10" wspace="20" src="../images/FedPrompt.png">
 </div>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
-<span class="conference-label">ICML 2024</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
+  <span class="conference-label">ICML 2024</span>
+  </dt>
   <dd><a href="https://proceedings.mlr.press/v235/wan24g.html"><strong>S3GCL: Spectral, Swift, Spatial Graph Contrastive Learning
 </strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
+  <dd><strong>Guancheng Wan</strong>, Yijun Tian, Wenke Huang, Nitesh V Chawla, Mang Ye</dd>
     <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2024 </dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSSP.png">
-<span class="conference-label">NeurIPS 2024</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/FedSSP.png">
+  <span class="conference-label">NeurIPS 2024</span>
+  </dt>
   <dd><a href="https://arxiv.org/pdf/2410.20105"><strong>FedSSP: Federated Graph Learning with Spectral Knowledge and Personalized Preference</strong></a></dd>
-<dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
-<dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
+  <dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Wenke Huang&dagger;, Mang Ye</dd>
+  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FDCR.png">
-<span class="conference-label">NeurIPS 2024</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/FDCR.png">
+  <span class="conference-label">NeurIPS 2024</span>
+  </dt>
   <dd><a href=""><strong>	
 Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated Learning</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du
@@ -414,9 +413,9 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 <dl>
   <dt><img align="left"  width="400"
- wspace="20" hspace="10" src="../images/fggp.png">
-<span class="conference-label">AAAI 2024</span>
-</dt>
+  wspace="20" hspace="10" src="../images/fggp.png">
+  <span class="conference-label">AAAI 2024</span>
+  </dt>
   <dd ><a href="https://ojs.aaai.org/index.php/AAAI/article/view/29468"><strong> Federated Graph Learning under Domain Shift with Generalizable Prototypes</strong></a></dd>
   <dd><strong>Guancheng Wan</strong>, Wenke Huang, Mang Ye</dd>
     <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2024</dd>
@@ -425,12 +424,12 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/episurvey.png">
-<span class="conference-label">KDD 2024</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/episurvey.png">
+  <span class="conference-label">KDD 2024</span>
+  </dt>
   <dd><a href="https://dl.acm.org/doi/pdf/10.1145/3637528.3671455"><strong>A Review of Graph Neural Networks in Epidemic Modeling</strong></a></dd>
-<dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
+  <dd>Zewen Liu&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, B. Aditya Prakash, Max S. Y. Lau, Wei Jin</dd>
     <dd>ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<strong>KDD</strong>), 2024</dd>
     <dd><a href="https://github.com/Emory-Melody/awesome-epidemic-modeling-papers">Project Page</a></dd>
 </dl>
@@ -438,10 +437,10 @@ hspace="10" wspace="20" src="../images/episurvey.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10"   wspace="20" src="../images/fgssl.png">
-<span class="conference-label">IJCAI 2023</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10"   wspace="20" src="../images/fgssl.png">
+  <span class="conference-label">IJCAI 2023</span>
+  </dt>
   <dd><a href="https://arxiv.org/pdf/2406.18937"><strong>Federated Graph Semantic and Structural Learning</strong></a></dd>
   <dd>Wenke Huang&dagger;, <strong>Guancheng Wan&dagger; </strong><span class="co-first">(co-first)</span>, Mang Ye, Bo Du</dd>
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
@@ -450,10 +449,10 @@ hspace="10"   wspace="20" src="../images/fgssl.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/flsurvey.png">
-<span class="conference-label">TPAMI 2024</span>
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/flsurvey.png">
+  <span class="conference-label">TPAMI 2024</span>
+  </dt>
   <dd><a href="https://arxiv.org/abs/2311.06750"><strong>Federated Learning for Generalization, Robustness, Fairness: A Survey and Benchmark</strong></a></dd>
   <dd>Wenke Huang, Mang Ye, Zekun Shi, <strong>Guancheng Wan</strong>, He Li, Bo Du,  Qiang Yang
   </dd>
@@ -476,9 +475,9 @@ hspace="10" wspace="20" src="../images/flsurvey.png">
 
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/SPIDER.png">
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/SPIDER.png">
+  </dt>
   <dd><a href=""><strong>	
 Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning
 </strong></a></dd>
@@ -491,9 +490,9 @@ Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tu
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/EAGLES.png">
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/EAGLES.png">
+  </dt>
   <dd><a href=""><strong>	
 EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
 </strong></a></dd>
@@ -510,9 +509,9 @@ EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning vi
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/FedSPA.png">
-</dt>
+  <dt><img align="left"  width="400"
+  hspace="10" wspace="20" src="../images/FedSPA.png">
+  </dt>
   <dd><a href=""><strong>	
 FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
 </strong></a></dd>
