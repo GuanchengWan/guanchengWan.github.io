@@ -639,18 +639,9 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
   <summary><strong>Poems that inspire me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
   <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
+    <dd><strong>风吹到哪页读哪页</strong> —— The wind blows to which page, read which page.. </dd>
 </details>
 
-
-<br/>
-
-Handwriting of my Chinese name:
-<dl><img align="left" height="auto"  width="130"
- src="../images/handwrite.png"></dl>
-
-<br/>
-
-<br/>
 
 
 
