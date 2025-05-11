@@ -153,7 +153,27 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 # 🔥 News
 
 
-<div style="max-height: 250px; overflow-y: auto;">
+<div style="max-height: 250px; overflow-y: auto; padding-right: 10px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<style>
+  /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
+  div::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  div::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+  }
+
+  div::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+
+  div::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+</style>
 <ul>
   <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> Two Spotlights (Top 2.6%)</strong>. See you in Vancouver!</li>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
@@ -335,6 +355,7 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 </dl>
 
 <hr>
+
 
 <dl>
   <dt><img align="left"  width="400"
