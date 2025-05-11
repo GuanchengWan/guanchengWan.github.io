@@ -143,9 +143,10 @@ b) AI for Science: Genomics, Physics and Chemistry...
 c) Trustworthy (Graph) Learning
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
-  <p style="margin: 0; font-size: 1.1em;"> <strong>🌟 📢 Hiring:  Remote Research Internship Opportunities</strong><br>
+  <p style="margin: 0;"> <strong>🌟 📢 Hiring:  Remote Research Internship Opportunities</strong><br>
 We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR.
-    If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a herf="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
+    If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
+href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
   </p>
 </div>
 
