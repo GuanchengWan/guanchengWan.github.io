@@ -136,11 +136,11 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 
 I am passionate about modeling the relationships among all points (*e.g.*, nodes, tokens, or agents). My current research interests focus on three key areas:
 
-a) (Multimodal) Large Language Models, Large Reasoning Models (LRMs), LLM-based Multi-Agent System (MAS)
+a) (Multimodal) Large Language Models (MLLM), Large Reasoning Models, LLM-based Multi-Agent System
 
-b) AI for Science: Genomics, Physics and Chemistry...
+b) AI for Science: Biotechnology, Physics and Chemistry...
 
-c) Trustworthy (Graph) Learning
+c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination 
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
   <p style="margin: 0;"> <strong>🌟 📢 Hiring:  Remote Research Internship Opportunities</strong><br>
