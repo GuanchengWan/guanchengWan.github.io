@@ -153,31 +153,34 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 # 🔥 News
 
 
-<div style="max-height: 250px; overflow-y: auto; padding-right: 10px; scrollbar-width: thin; scrollbar-color: #888 #f1f1f1;">
+<div style="max-height: 250px; overflow-y: scroll; padding-right: 10px; scrollbar-width: thin; scrollbar-color: #666 #f1f1f1;">
 <style>
   /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
   div::-webkit-scrollbar {
-    width: 8px;
+    width: 12px;
+    display: block;
   }
 
   div::-webkit-scrollbar-track {
     background: #f1f1f1;
-    border-radius: 4px;
+    border-radius: 6px;
+    border: 1px solid #ddd;
   }
 
   div::-webkit-scrollbar-thumb {
-    background: #888;
-    border-radius: 4px;
+    background: #666;
+    border-radius: 6px;
+    border: 2px solid #f1f1f1;
   }
 
   div::-webkit-scrollbar-thumb:hover {
-    background: #555;
+    background: #444;
   }
 </style>
 <ul>
   <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> Two Spotlights (Top 2.6%)</strong>. See you in Vancouver!</li>
-  <li><em>2025.04:</em> 🎉 One co-first authored paper: <strong>LoRASculpt </strong> (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
-    <li><em>2025.03:</em> 🎉 One co-first authored paper: <strong>FedTGE</strong> was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
+  <li><em>2025.04:</em> 🎉 One co-first authored paper: LoRASculpt (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
+    <li><em>2025.03:</em> 🎉 One co-first authored paper: FedTGE was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
   <li><em>2024.02:</em> I serve as a reviewer for <strong>NeurIPS 2025</strong>.</li>
   <li><em>2025.01:</em> 🎉 Two papers were accepted by <strong>ICLR 2025</strong>. See you in Singapore.</li>
@@ -358,6 +361,19 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 
 <dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedPHA.png">
+<span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href=""><strong>FedPHA: Federated Prompt Learning for Heterogeneous Client Adaptation</strong></a></dd>
+  <dd>Chengying Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Yihao Yang, Mang Ye</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
   <dt><img align="left"  width="400"
   hspace="10" wspace="20" src="../images/LFBA.png">
   <span class="conference-label">AAAI 2025</span>
@@ -394,6 +410,20 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   <dd>Zhihao Wang, Wenke Huang, Tian Chen, Zekun Shi, <strong>Guancheng Wan</strong>, Yu Qiao, Bin Yang, Jian Wang, Bing Li, Mang Ye</dd>
   <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
 </dl>
+
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
+<span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href=""><strong>Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation</strong></a></dd>
+  <dd>Yihao Yang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Bin Yang, Mang Ye</dd>
+  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
 
 
 
