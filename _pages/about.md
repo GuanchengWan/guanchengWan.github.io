@@ -114,7 +114,7 @@ redirect_from:
 
 
 My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
-<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, an incoming CS PhD student (25 Fall) at UCLA, supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ). I am currently a 4<sup>th</sup>-year undergraduate student at Wuhan University CS, working closely with [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
+<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, an incoming CS PhD student (25 Fall) at University of California, Los Angeles (UCLA), supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ). I am currently a 4<sup>th</sup>-year undergraduate student at Wuhan University CS, working closely with [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
 
 Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
 and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
@@ -122,6 +122,10 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 <div style="text-align: left; margin: 20px 0;">
   <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
 </div>
+
+
+
+
 
 # 🔎 Research 
 <!-- "All things are interconnected, this is the essence of nature."  -->
@@ -132,13 +136,18 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 
 I am passionate about modeling the relationships among all points (*e.g.*, nodes, tokens, or agents). My current research interests focus on three key areas:
 
-a) (Multimodal) Large Language Models (LLMs), Large Reasoning Models (LRMs), LLM-based Multi-Agent System (MAS)
+a) (Multimodal) Large Language Models, Large Reasoning Models (LRMs), LLM-based Multi-Agent System (MAS)
 
 b) AI for Science: Genomics, Physics and Chemistry...
 
 c) Trustworthy (Graph) Learning
 
-<br/>
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
+  <p style="margin: 0; font-size: 1.1em;"> <strong>🌟 📢 Hiring:  Remote Research Internship Opportunities</strong><br>
+We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR.
+    If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a herf="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
+  </p>
+</div>
 
 # 🔥 News
 
@@ -595,6 +604,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
   </div>
 </div>
 
+<!-- 
 <div style="margin-bottom: 40px;">
   <div style="display: flex; align-items: center; gap: 20px;">
     <div style="flex: 1; font-size: 1.1em;">
@@ -605,7 +615,7 @@ FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
       <img src="../images/fuzhong.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />
     </div>
   </div>
-</div>
+</div> -->
 
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
