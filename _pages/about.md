@@ -152,32 +152,34 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
 # 🔥 News
 
-
-<div style="max-height: 250px; overflow-y: scroll; padding-right: 10px; scrollbar-width: thin; scrollbar-color: #666 #f1f1f1;">
+<div style="max-height: 400px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 20px 0;">
 <style>
   /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
   div::-webkit-scrollbar {
-    width: 12px;
-    display: block;
+    width: 8px;
   }
 
   div::-webkit-scrollbar-track {
-    background: #f1f1f1;
-    border-radius: 6px;
-    border: 1px solid #ddd;
+    background: #e9ecef;
+    border-radius: 4px;
   }
 
   div::-webkit-scrollbar-thumb {
-    background: #666;
-    border-radius: 6px;
-    border: 2px solid #f1f1f1;
+    background: #2c3e50;
+    border-radius: 4px;
   }
 
   div::-webkit-scrollbar-thumb:hover {
-    background: #444;
+    background: #1a252f;
+  }
+
+  /* 为 Firefox 设置滚动条样式 */
+  div {
+    scrollbar-width: thin;
+    scrollbar-color: #2c3e50 #e9ecef;
   }
 </style>
-<ul>
+<ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> Two Spotlights (Top 2.6%)</strong>. See you in Vancouver!</li>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: LoRASculpt (MLLM visual instruction tuning) was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
     <li><em>2025.03:</em> 🎉 One co-first authored paper: FedTGE was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
@@ -208,6 +210,52 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 </div>
 
 <br/>
+
+# 📝 Manuscripts
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/MOTION.png">
+<span class="conference-label">Under Review</span>
+</dt>
+  <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
+<dd>under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/HYPERION.png">
+<span class="conference-label">Under Review</span>
+</dt>
+  <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
+<dd>under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/MOCD.png">
+<span class="conference-label">Under Review</span>
+</dt>
+  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
+<dd>under review, 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="400"
+hspace="10" wspace="20" src="../images/OASIS.png">
+<span class="conference-label">Under Review</span>
+</dt>
+  <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
+<dd>under review, 2025</dd>
+</dl>
+
+<hr>
 
 # 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
 
