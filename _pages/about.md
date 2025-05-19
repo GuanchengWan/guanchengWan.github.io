@@ -237,7 +237,7 @@ hspace="10" wspace="20" src="../images/HYPERION.png">
 
 <dl>
   <dt><img align="left" width="400"
-hspace="10" wspace="20" src="../images/MOCD.png">
+hspace="10" wspace="20" src="../images/TRUST.png">
 <span class="conference-label">Under Review</span>
 </dt>
   <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
