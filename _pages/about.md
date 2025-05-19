@@ -152,7 +152,7 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
 # 🔥 News
 
-<div style="max-height: 400px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 20px 0;">
+<div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
 <style>
   /* 为 Webkit 浏览器（Chrome, Safari, Edge）设置滚动条样式 */
   div::-webkit-scrollbar {
