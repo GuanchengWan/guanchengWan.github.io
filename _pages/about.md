@@ -153,7 +153,8 @@ We are looking for motivated research interns to work together! Almost every int
 href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
   </p>
 </div>
-<!-- 
+
+
 # 🔥 News
 
 <div style="max-height: 350px; overflow-y: auto; padding: 20px; background: #f8f9fa; border-left: 4px solid #2c3e50; margin: 0px 0;">
@@ -212,7 +213,7 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
   <li><em>2023.10:</em> I won the National Scholarship for the second time (0.2% nation-wide), and was selected the Pacemaker to Merit Student (Award Rate: 60/59774=0.1%).</li>
   <li><em>2023.08:</em> we attended <em>the 32nd international joint conference on artificial intelligence (<strong>ijcai</strong>)</em> and presented our work in macao.</li>
 </ul>
-</div> -->
+</div>
 
 <br/>
 
