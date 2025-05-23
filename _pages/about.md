@@ -116,8 +116,11 @@ redirect_from:
 My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
 <span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, an incoming CS PhD student (25 Fall) at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ). I obtained B.S. degree at [Wuhan University](https://www.whu.edu.cn/), working closely with [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
 
-Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
-and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ).
+I am open to research collaborations and internships, with a great record of cooperating and mentoring. 🥳 Feel free to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
+
+
+<!-- Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
+and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ). -->
 
 <div style="text-align: left; margin: 20px 0;">
   <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
@@ -141,6 +144,7 @@ a) (Multimodal) Large Language Models (MLLM), Large Reasoning Models, LLM-based 
 b) AI for Science: Biotechnology, Physics and Chemistry...
 
 c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination 
+
 
 <div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
   <p style="margin: 0; "> <strong style="color: red">🌟 📢 Hiring:  Remote Research Intern</strong><br>
