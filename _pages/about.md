@@ -220,7 +220,7 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 # 📝 Manuscripts
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/MOTION.png">
 <span class="conference-label">Under Review</span>
 </dt>
@@ -231,7 +231,7 @@ hspace="10" wspace="20" src="../images/MOTION.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/HYPERION.png">
 <span class="conference-label">Under Review</span>
 </dt>
@@ -242,7 +242,7 @@ hspace="10" wspace="20" src="../images/HYPERION.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/TRUST.png">
 <span class="conference-label">Under Review</span>
 </dt>
@@ -253,7 +253,7 @@ hspace="10" wspace="20" src="../images/TRUST.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/OASIS.png">
 <span class="conference-label">Under Review</span>
 </dt>
@@ -267,12 +267,12 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 
 **&dagger; Equal Contribution**   
 
-<div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
+<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
 2025 
 </div>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FedTGE.png">
 <span class="conference-label">ICLR 2025</span>
 </dt>
@@ -287,7 +287,7 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/GREAT.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
@@ -300,7 +300,7 @@ hspace="10" wspace="20" src="../images/GREAT.png">
 
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/LoRASculpt.png">
 <span class="conference-label">CVPR 2025</span>
 </dt>
@@ -313,7 +313,7 @@ hspace="10" wspace="20" src="../images/LoRASculpt.png">
 
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FedSPA.png">
 <span class="conference-label">CVPR 2025</span>
 </dt>
@@ -326,7 +326,7 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
 
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EARTH.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
@@ -339,7 +339,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EMOE.png">
 <span class="conference-label">CVPR 2025</span>
 </dt>
@@ -351,7 +351,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/GHOST.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -363,7 +363,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/EAGLES.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -375,7 +375,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/Gdesigner.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -387,7 +387,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/BeConfident.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -400,7 +400,7 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/agentprune.png">
   <span class="conference-label">ICLR 2025</span>
   </dt>
@@ -415,7 +415,7 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FedPHA.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
@@ -428,7 +428,7 @@ hspace="10" wspace="20" src="../images/FedPHA.png">
 
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/LFBA.png">
   <span class="conference-label">AAAI 2025</span>
   </dt>
@@ -442,7 +442,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/LearnFromDownstream.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
@@ -456,7 +456,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FedPrompt.png">
   <span class="conference-label">IJCAI 2025</span>
   </dt>
@@ -469,7 +469,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
 <hr>
 
 <dl>
-  <dt><img align="left" width="400"
+  <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
 <span class="conference-label">ICML 2025</span>
 </dt>
@@ -478,17 +478,25 @@ hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
-
-
-
 <hr>
 
-<div style="text-align: left; margin: 20px 0; font-size: 1.2em; color: #666;">
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href=""><strong>Splitting with Importance-aware Updating for Heterogeneous Federated Learning with Large Language Models</strong></a></dd>
+<dd>Yangxu Liao&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jian Liang, Bin Yang, Mang Ye</dd>
+<dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+<hr>
+
+
+<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
 2024
 </div>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/S3GCL_ICML24.png">
   <span class="conference-label">ICML 2024</span>
   </dt>
@@ -501,7 +509,7 @@ hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FedSSP.png">
   <span class="conference-label">NeurIPS 2024</span>
   </dt>
@@ -513,7 +521,7 @@ hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FDCR.png">
   <span class="conference-label">NeurIPS 2024</span>
   </dt>
@@ -527,7 +535,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   wspace="20" hspace="10" src="../images/fggp.png">
   <span class="conference-label">AAAI 2024</span>
   </dt>
@@ -539,7 +547,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/episurvey.png">
   <span class="conference-label">KDD 2024</span>
   </dt>
@@ -552,7 +560,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10"   wspace="20" src="../images/fgssl.png">
   <span class="conference-label">IJCAI 2023</span>
   </dt>
@@ -564,7 +572,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <hr>
 
 <dl>
-  <dt><img align="left"  width="400"
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/flsurvey.png">
   <span class="conference-label">TPAMI 2024</span>
   </dt>
@@ -575,9 +583,10 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
 </dl>
 
-<hr>
+</br>
 
-# 📝 Manuscripts
+
+# 🔬 Survey and Benchmark
 
 - **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
 
@@ -585,60 +594,18 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 - **A Comprehensive Survey in LLM (-Agent) Full Stack Safety: Data, Training and Deployment**
 
-<!-- 
-<hr>
+- **From Web Search towards Agentic Deep ReSearch: Incentivizing Search with Reasoning Agents**
 
+- **A Comprehensive Survey of Evaluating Multimodal Foundation Models: Hierarchical Perspective and Extensive Applications**
 
-<dl>
-  <dt><img align="left"  width="400"
-  hspace="10" wspace="20" src="../images/SPIDER.png">
-  </dt>
-  <dd><a href=""><strong>	
-Learn from Downstream and Be Yourself in Multimodal Large Language Model Fine-Tuning
-</strong></a></dd>
-<dd>under review, 2025</dd>
+- **A Comprehensive Survey on Scientific Large Language Models in Physics**
 
-
-</dl>
-
-
-<hr>
-
-<dl>
-  <dt><img align="left"  width="400"
-  hspace="10" wspace="20" src="../images/EAGLES.png">
-  </dt>
-  <dd><a href=""><strong>	
-EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification
-</strong></a></dd>
-<dd>under review, 2025</dd>
-
-
-</dl> -->
+- **FD-Bench: A Modular and Fair Benchmark for Data-driven Fluid Simulation**
 
 
 
-<!-- 
 
 
-<hr>
-
-<dl>
-  <dt><img align="left"  width="400"
-  hspace="10" wspace="20" src="../images/FedSPA.png">
-  </dt>
-  <dd><a href=""><strong>	
-FedSPA : Generalizable Federated Graph Learning under Homophily Heterogeneity
-</strong></a></dd>
-<dd>under review, 2024</dd>
-
-</dl>
-
-
- -->
-
-
-<hr>
 
 # 🎡 Service
 ## Program Chair
