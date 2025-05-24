@@ -59,8 +59,8 @@ redirect_from:
   }
 
   dl dt img {
-    width: 400px; /* 设定统一宽度 */
-    height: 200px; /* 设定统一高度 */
+    width: 350px; /* 设定统一宽度 */
+    height: 150px; /* 设定统一高度 */
     object-fit: cover; /* 确保图片不会被裁剪 */
     display: block;
     margin: 10px 10px 10px 0px; /* 适当的间距 */
