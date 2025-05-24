@@ -121,7 +121,7 @@ redirect_from:
 
 
 My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
-<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, an CS Ph.D. student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ). I obtained my B.S. degree at [Wuhan University](https://www.whu.edu.cn/), advised by [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
+<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, a CS Ph.D. student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), supervised by [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) and [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ). I obtained my B.S. degree at [Wuhan University](https://www.whu.edu.cn/), advised by [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
 
 I am open to any research collaboration and internship, with a great record of cooperating and mentoring. 🥳 Feel free to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
@@ -135,6 +135,13 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 
 
 
+<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
+  <p style="margin: 0; "> <strong style="color: red">🌟 📢 Hiring:  Remote Research Intern</strong><br>
+We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR.
+    If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
+href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
+  </p>
+</div>
 
 
 # 🔎 Research 
@@ -152,14 +159,6 @@ b) AI for Science: Biotechnology, Physics and Chemistry...
 
 c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination 
 
-
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
-  <p style="margin: 0; "> <strong style="color: red">🌟 📢 Hiring:  Remote Research Intern</strong><br>
-We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR.
-    If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
-href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
-  </p>
-</div>
 
 
 # 🔥 News
