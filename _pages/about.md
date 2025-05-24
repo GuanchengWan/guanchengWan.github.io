@@ -60,7 +60,6 @@ redirect_from:
 
   dl dt img {
     width: 100%; /* 在移动端默认占满宽度 */
-    max-width: 350px; /* 在桌面端最大宽度为350px */
     aspect-ratio: 2/1; /* 设置宽高比为2:1，即高度为宽度的一半 */
     object-fit: cover; /* 确保图片不会被裁剪 */
     display: block;
