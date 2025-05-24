@@ -472,7 +472,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
 </dl>
 
-
+<!-- 
 <hr>
 
 <dl>
@@ -495,7 +495,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 <dd>Yangxu Liao&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jian Liang, Bin Yang, Mang Ye</dd>
 <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
-<hr>
+<hr> -->
 
 
 <div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
