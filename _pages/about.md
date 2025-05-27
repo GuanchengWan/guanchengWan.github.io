@@ -121,7 +121,7 @@ redirect_from:
 
 
 My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: pointer;" onclick="this.nextElementSibling.style.display = this.nextElementSibling.style.display === 'none' ? 'block' : 'none'; this.querySelector('.toggle-symbol').textContent = this.nextElementSibling.style.display === 'block' ? '▼' : '►';"><span class="toggle-symbol" style="margin-right: 5px;">►</span><span style="color: gray;">How to pronounce?</span></span>
-<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, a CS Ph.D. student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), supervised by [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ) and [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) (IEEE/ACM Fellow). I obtained my B.S. degree at [Wuhan University](https://www.whu.edu.cn/), advised by [Mang Ye](https://scholar.google.com/citations?user=j-HxRy0AAAAJ&hl=zh-CN), [Bo Du](https://scholar.google.com/citations?user=Shy1gnMAAAAJ&hl=en) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
+<span style="display: none;">My name is pronounced as "Gwan-chung Wan". The "Gwan" rhymes with "man", and "chung" sounds like "chung" in "chunk".</span>, a CS Ph.D. student at University of California, Los Angeles ([UCLA](https://www.ucla.edu/)), supervised by [Yizhou Sun](https://scholar.google.com/citations?user=TQgOjK0AAAAJ) and [Wei Wang](https://scholar.google.com/citations?user=UedS9LQAAAAJ) (IEEE/ACM Fellow). I obtained my B.S. degree at [Wuhan University](https://www.whu.edu.cn/), advised by [Mang Ye](https://jszy.whu.edu.cn/yemang/zh_CN/index.htm), [Bo Du](https://cs.whu.edu.cn/info/1019/2892.htm) and [Wenke Huang](https://scholar.google.com/citations?hl=zh-CN&user=aFoCI3MAAAAJ). 
 
 I am open to any research collaboration and internship, with a great record of cooperating and mentoring. 🥳 Feel free to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
@@ -704,6 +704,94 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 </div> -->
 
 
+
+# 💼 Experience
+
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://sail.sea.com/">Sea AI Lab</a></strong><br/>
+      <em>Internship</em> (2025)<br/>
+      <em>Topics: (M)LLM, GUI Agent</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/sea.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://ucla-dm.github.io/DM_website/">UCLA Data Mining Lab</a> & <a href="http://web.cs.ucla.edu/~weiwang/">ScAI Lab </a>, University of California, Los Angeles</strong><br/>
+      <em>Research Internship</em> (2024-2025)<br/>
+      <em>Topics: Ai4Science, Dynamic System, Graph Neural ODE</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/UCLA.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://www.cs.emory.edu/~wjin30/"> Melody Lab</a>, Emory University</strong><br/>
+      <em>Research Assistant</em> (2024)<br/>
+      <em>Topics: Ai4Science, Epidemiology, Graph Learning</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/emory.png" alt="Emory Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://adityalab.cc.gatech.edu/"> Aditya Lab</a>, Georgia Institute of Technology</strong><br/>
+      <em>Research Assistant</em> (2024)<br/>
+      <em>Topics: Ai4Science, Epidemiology, Graph Learning</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/gatech.png" alt="Emory Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://lucyinstitute.nd.edu/centers-and-labs/data-inference-analytics-and-learning-dial-lab/">DIAL Lab</a>, University of Notre Dame</strong><br/>
+      <em>Research Internship</em> (2023)<br/>
+      <em>Topics: Inference Acceleration, Heterophilic Graph, Unsupervised Learning</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/ND.png" alt="Notre Dame Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+
+
+<div style="margin-bottom: 40px;">
+  <div style="display: flex; align-items: center; gap: 25px;">
+    <div style="flex: 1;">
+      <strong><a href="https://marswhu.github.io/">MARS lab</a>, Wuhan University</strong><br/>
+      <em>Research Assistant</em> (2023-2025)<br/>
+      <em>Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</em>
+    </div>
+    <div style="flex-shrink: 0; max-width: 80px;">
+      <img src="../images/WHU.jpeg" alt="WHU Logo" style="width: 100%; height: auto; object-fit: contain;" />
+    </div>
+  </div>
+</div>
+
+
+
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
 
 
@@ -735,9 +823,16 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <summary><strong>Poems that inspire me</strong></summary>
   <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
   <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
-    <dd><strong>风吹到哪页读哪页</strong> —— The wind blows to which page, read which page.. </dd>
+    <dd><strong>风吹到哪页，读哪页</strong> —— The wind blows to which page, read which page.. </dd>
 </details>
 
 
 
 
+<br>
+
+<br>
+
+<br>
+
+<br>
