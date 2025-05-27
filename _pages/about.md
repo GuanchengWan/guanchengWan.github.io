@@ -108,6 +108,82 @@ redirect_from:
     transform: rotate(180deg);
   }
 
+  /* 教育和工作经历卡片样式 */
+  .experience-card, .education-card {
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    margin-bottom: 30px;
+    padding: 20px;
+    background: #f8f9fa;
+    border-radius: 12px;
+    transition: all 0.3s ease;
+    border: 1px solid #e9ecef;
+  }
+
+  .experience-card:hover, .education-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    border-color: #dee2e6;
+  }
+
+  .experience-info, .education-info {
+    flex: 1;
+  }
+
+  .experience-logo, .education-logo {
+    flex-shrink: 0;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: white;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  }
+
+  .experience-logo img, .education-logo img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .experience-title, .education-title {
+    font-size: 1.2em;
+    margin-bottom: 8px;
+    color: #2c3e50;
+  }
+
+  .experience-title a, .education-title a {
+    color: #2c3e50;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .experience-title a:hover, .education-title a:hover {
+    color: #3498db;
+  }
+
+  .experience-role, .education-role {
+    color: #666;
+    font-style: italic;
+    margin-bottom: 5px;
+  }
+
+  .experience-topics, .education-topics {
+    color: #666;
+    font-style: italic;
+  }
+
+  .section-title {
+    font-size: 1.8em;
+    color: #2c3e50;
+    margin: 40px 0 20px;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #ecf0f1;
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -664,29 +740,29 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 <br/>
 
-# 📖 Educations
+# 📖 Education
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
+<div class="education-card">
+  <div class="education-info">
+    <div class="education-title">
       <strong>2025.09 - Now</strong><br/>
-      PhD, Computer Science, University of California, Los Angeles (UCLA)<br/>
+      PhD, Computer Science, University of California, Los Angeles (UCLA)
     </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-      <img src="../images/UCLA.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+  </div>
+  <div class="education-logo">
+    <img src="../images/UCLA.png" alt="UCLA Logo" />
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
+<div class="education-card">
+  <div class="education-info">
+    <div class="education-title">
       <strong>2021.09 - 2025.06</strong><br/>
-      Undergraduate, School of Computer Science, Wuhan University<br/>
+      Bachelor, School of Computer Science, Wuhan University
     </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-      <img src="../images/WHU.jpeg" alt="Wuhan University Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+  </div>
+  <div class="education-logo">
+    <img src="../images/WHU.jpeg" alt="Wuhan University Logo" />
   </div>
 </div>
 
@@ -707,86 +783,81 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 💼 Experience
 
-
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://sail.sea.com/">Sea AI Lab</a></strong><br/>
-      <em>Internship</em> (2025)<br/>
-      <em>Topics: (M)LLM, GUI Agent</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://sail.sea.com/">Sea AI Lab</a>
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/sea.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Internship, 2025</div>
+    <div class="experience-topics">Topics: (M)LLM, GUI Agent</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/sea.png" alt="Sea AI Lab Logo" />
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://ucla-dm.github.io/DM_website/">UCLA Data Mining Lab</a> & <a href="http://web.cs.ucla.edu/~weiwang/">ScAI Lab </a>, University of California, Los Angeles</strong><br/>
-      <em>Research Internship</em> (2024-2025)<br/>
-      <em>Topics: Ai4Science, Dynamic System, Graph Neural ODE</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://ucla-dm.github.io/DM_website/">UCLA Data Mining Lab</a> & <a href="http://web.cs.ucla.edu/~weiwang/">ScAI Lab</a>, University of California, Los Angeles
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/UCLA.png" alt="UCLA Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Research Internship, 2024-2025</div>
+    <div class="experience-topics">Topics: Ai4Science, Dynamic System, Graph Neural ODE</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/UCLA.png" alt="UCLA Logo" />
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://www.cs.emory.edu/~wjin30/"> Melody Lab</a>, Emory University</strong><br/>
-      <em>Research Assistant</em> (2024)<br/>
-      <em>Topics: Ai4Science, Epidemiology, Graph Learning</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://www.cs.emory.edu/~wjin30/">Melody Lab</a>, Emory University
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/emory.png" alt="Emory Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Research Assistant, 2024</div>
+    <div class="experience-topics">Topics: Ai4Science, Epidemiology, Graph Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/emory.png" alt="Emory Logo" />
   </div>
 </div>
 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://adityalab.cc.gatech.edu/"> Aditya Lab</a>, Georgia Institute of Technology</strong><br/>
-      <em>Research Assistant</em> (2024)<br/>
-      <em>Topics: Ai4Science, Epidemiology, Graph Learning</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://adityalab.cc.gatech.edu/">Aditya Lab</a>, Georgia Institute of Technology
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/gatech.png" alt="Emory Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Research Assistant, 2024</div>
+    <div class="experience-topics">Topics: Ai4Science, Epidemiology, Graph Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/gatech.png" alt="Georgia Tech Logo" />
   </div>
 </div>
 
-
-
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://lucyinstitute.nd.edu/centers-and-labs/data-inference-analytics-and-learning-dial-lab/">DIAL Lab</a>, University of Notre Dame</strong><br/>
-      <em>Research Internship</em> (2023)<br/>
-      <em>Topics: Inference Acceleration, Heterophilic Graph, Unsupervised Learning</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://lucyinstitute.nd.edu/centers-and-labs/data-inference-analytics-and-learning-dial-lab/">DIAL Lab</a>, University of Notre Dame
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/ND.png" alt="Notre Dame Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Research Internship, 2023</div>
+    <div class="experience-topics">Topics: Inference Acceleration, Heterophilic Graph, Unsupervised Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/ND.png" alt="Notre Dame Logo" />
   </div>
 </div>
 
-
-
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 25px;">
-    <div style="flex: 1;">
-      <strong><a href="https://marswhu.github.io/">MARS lab</a>, Wuhan University</strong><br/>
-      <em>Research Assistant</em> (2023-2025)<br/>
-      <em>Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</em>
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://marswhu.github.io/">MARS lab</a>, Wuhan University
     </div>
-    <div style="flex-shrink: 0; max-width: 80px;">
-      <img src="../images/WHU.jpeg" alt="WHU Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
+    <div class="experience-role">Research Assistant, 2023-2025</div>
+    <div class="experience-topics">Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/WHU.jpeg" alt="WHU Logo" />
   </div>
 </div>
 
