@@ -816,36 +816,6 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <li><strong>2023.10</strong> Pacemaker to Merit Student (Award Rate ~ <strong>0.1%</strong>)</li>
 </ul>
 
-# 🎡 Service
-
-<div class="service-section">
-  <h3>Program Chair</h3>
-  <ul class="service-list">
-    <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
-  </ul>
-</div>
-
-<div class="service-section">
-  <h3>Conference Committee Member</h3>
-  <ul class="service-list">
-    <li>Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025</li>
-    <li>Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024</li>
-    <li>Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025</li>
-  </ul>
-</div>
-
-<div class="service-section">
-  <h3>Journal Reviewer</h3>
-  <ul class="service-list">
-    <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
-    <li>ACM TKDD</li>
-    <li>Pattern Recognition (PR)</li>
-    <li>Data-centric Machine Learning Research (DMLR)</li>
-  </ul>
-</div>
-
-
-
 
 <br/>
 
