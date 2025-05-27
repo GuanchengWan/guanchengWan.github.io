@@ -184,6 +184,80 @@ redirect_from:
     padding-bottom: 10px;
     border-bottom: 2px solid #ecf0f1;
   }
+
+  /* 奖学金和荣誉部分样式 */
+  .honors-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .honors-list li {
+    margin-bottom: 15px;
+    padding: 15px 20px;
+    background: #f8f9fa;
+    border-radius: 8px;
+    border-left: 4px solid #3498db;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .honors-list li:hover {
+    transform: translateX(5px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .honors-list li strong {
+    color: #2c3e50;
+  }
+
+  .honors-list li a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .honors-list li a:hover {
+    color: #2980b9;
+  }
+
+  /* 服务部分样式 */
+  .service-section {
+    margin-bottom: 30px;
+  }
+
+  .service-section h3 {
+    color: #2c3e50;
+    font-size: 1.3em;
+    margin: 25px 0 15px;
+    padding-bottom: 8px;
+    border-bottom: 2px solid #ecf0f1;
+  }
+
+  .service-list {
+    list-style: none;
+    padding: 0;
+  }
+
+  .service-list li {
+    margin-bottom: 12px;
+    padding: 12px 15px;
+    background: #f8f9fa;
+    border-radius: 6px;
+    transition: transform 0.3s ease;
+  }
+
+  .service-list li:hover {
+    transform: translateX(5px);
+  }
+
+  .service-list li a {
+    color: #3498db;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+
+  .service-list li a:hover {
+    color: #2980b9;
+  }
 </style>
 
 {% if site.google_scholar_stats_use_cdn %}
@@ -695,20 +769,32 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 
 # 🎡 Service
-## Program Chair
-- [FedKDD 2025 Workshop@KDD 2025](https://fedkdd.github.io/fedkdd2025/)
 
+<div class="service-section">
+  <h3>Program Chair</h3>
+  <ul class="service-list">
+    <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
+  </ul>
+</div>
 
-## Conference Committee Member
-- Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025
-- Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024
-- Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025
+<div class="service-section">
+  <h3>Conference Committee Member</h3>
+  <ul class="service-list">
+    <li>Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025</li>
+    <li>Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024</li>
+    <li>Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025</li>
+  </ul>
+</div>
 
-##  Journal Reviewer
-- IEEE TIFS, TIP, TKDE, TNNLS
-- ACM TKDD
-- Pattern Recognition (PR)
-- Data-centric Machine Learning Research (DMLR)
+<div class="service-section">
+  <h3>Journal Reviewer</h3>
+  <ul class="service-list">
+    <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
+    <li>ACM TKDD</li>
+    <li>Pattern Recognition (PR)</li>
+    <li>Data-centric Machine Learning Research (DMLR)</li>
+  </ul>
+</div>
 
 <!-- - Reviewer for Data-centric Machine Learning Research (DMLR) -->
 
@@ -717,25 +803,48 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
+<ul class="honors-list">
+  <li><strong>2024.11</strong> <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">Lei Jun Excellence Scholarship</a> <strong>~100k</strong> (The <strong>Highest</strong> Scholarship at Wuhan University, <strong>Top-4</strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
+  <li><strong>2023.09</strong> National Scholarship <strong>(Twice)</strong> (Award Rate: <strong>0.2% nation-wide</strong>)</li>
+  <li><strong>2022.09</strong> National Scholarship (Award Rate: <strong>0.2% nation-wide</strong>)</li>
+  <li><strong>2025.03</strong> <a href="https://mp.weixin.qq.com/s/1quPOGcxbMkfMFgkl8tFKQ">Luo Jia Role model</a> (10 Students school-wide)</li>
+  <li><strong>2024.10</strong> Luojia Undergraduate Innovation Research Fund <strong>~50k</strong> (4 Students department-wide)</li>
+  <li><strong>2024.06</strong> Lei Jun Computer Innovation and Development Fund and Research Fund (3 Students department-wide)</li>
+  <li><strong>2024.06</strong> <a href="https://scholarship2024.sensetime.com/cn/">SenseTime Scholarship</a> <strong>~20k</strong> (25 Students nation-wide)</li>
+  <li><strong>2024.04</strong> <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">CS Pioneer</a> (10 Students department-wide)</li>
+  <li><strong>2023.10</strong> CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide)</li>
+  <li><strong>2023.10</strong> Pacemaker to Merit Student (Award Rate ~ <strong>0.1%</strong>)</li>
+</ul>
 
-- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+# 🎡 Service
 
-- *2022.09* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+<div class="service-section">
+  <h3>Program Chair</h3>
+  <ul class="service-list">
+    <li><a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025 Workshop@KDD 2025</a></li>
+  </ul>
+</div>
 
-- *2025.03* <a href="https://mp.weixin.qq.com/s/1quPOGcxbMkfMFgkl8tFKQ">**Luo Jia Role model** </a>(榜样珞珈年度人物) (10 Students school-wide)  *Wuhan University*
+<div class="service-section">
+  <h3>Conference Committee Member</h3>
+  <ul class="service-list">
+    <li>Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025</li>
+    <li>Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024</li>
+    <li>Reviewer for AAAI'2025, IJCAI'2025, ACM MM'2024/2025</li>
+  </ul>
+</div>
 
-- *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
+<div class="service-section">
+  <h3>Journal Reviewer</h3>
+  <ul class="service-list">
+    <li>IEEE TIFS, TIP, TKDE, TNNLS</li>
+    <li>ACM TKDD</li>
+    <li>Pattern Recognition (PR)</li>
+    <li>Data-centric Machine Learning Research (DMLR)</li>
+  </ul>
+</div>
 
-- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
 
-- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) ~20k (**25 Students nation-wide**) *SenseTime*
-
-- *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
-
-- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
-
-- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate ~ <strong>0.1%</strong>) *Wuhan University*
 
 
 <br/>
