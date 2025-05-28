@@ -954,7 +954,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 
 
-# Miscellaneous
+# 🏀 Miscellaneous
 
 <details>
   <summary><strong>Talks and Shares</strong></summary>
