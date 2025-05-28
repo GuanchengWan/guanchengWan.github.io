@@ -9,25 +9,18 @@ main:
   - title: "Publications"
     url: "/#-selected-publications-full-list"
 
-
   - title: "Manuscripts"
     url: "/#-manuscripts"
-  
-  # - title: "Competition Awards"
-  #   url: "/#-competition-awards"
 
-  - title: "Scholarships and Honors"
+  - title: "Honors"
     url: "/#-scholarships-and-honors"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#-education"
 
+  - title: "Experience"
+    url: "/#-experience"
 
   - title: "Miscellaneous"
     url: "/#-miscellaneous"
 
-  # - title: "Activities"
-  #   url: "/#-activities"
-
-  # - title: "Internships"
-  #   url: "/#-internships"

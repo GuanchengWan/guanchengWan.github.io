@@ -803,18 +803,25 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🎖 Scholarships and Honors
 
-<ul class="honors-list">
-  <li><strong>2024.11</strong> <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">Lei Jun Excellence Scholarship</a> <strong>~100k</strong> (The <strong>Highest</strong> Scholarship at Wuhan University, <strong>Top-4</strong> among All Undergraduates, Award Rate ~ <strong>0.01%</strong>)</li>
-  <li><strong>2023.09</strong> National Scholarship <strong>(Twice)</strong> (Award Rate: <strong>0.2% nation-wide</strong>)</li>
-  <li><strong>2022.09</strong> National Scholarship (Award Rate: <strong>0.2% nation-wide</strong>)</li>
-  <li><strong>2025.03</strong> <a href="https://mp.weixin.qq.com/s/1quPOGcxbMkfMFgkl8tFKQ">Luo Jia Role model</a> (10 Students school-wide)</li>
-  <li><strong>2024.10</strong> Luojia Undergraduate Innovation Research Fund <strong>~50k</strong> (4 Students department-wide)</li>
-  <li><strong>2024.06</strong> Lei Jun Computer Innovation and Development Fund and Research Fund (3 Students department-wide)</li>
-  <li><strong>2024.06</strong> <a href="https://scholarship2024.sensetime.com/cn/">SenseTime Scholarship</a> <strong>~20k</strong> (25 Students nation-wide)</li>
-  <li><strong>2024.04</strong> <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">CS Pioneer</a> (10 Students department-wide)</li>
-  <li><strong>2023.10</strong> CCF (China Computer Federation) Elite Collegiate Award (102 Students nation-wide)</li>
-  <li><strong>2023.10</strong> Pacemaker to Merit Student (Award Rate ~ <strong>0.1%</strong>)</li>
-</ul>
+- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
+
+- *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+
+- *2022.09* **National Scholarship** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
+
+- *2025.03* <a href="https://mp.weixin.qq.com/s/1quPOGcxbMkfMFgkl8tFKQ">**Luo Jia Role model** </a>(榜样珞珈年度人物) (10 Students school-wide)  *Wuhan University*
+
+- *2024.10* **Luojia Undergraduate Innovation Research Fund** (首批珞珈本科生研究基金) ~50k (4 Students department-wide)  *Wuhan University*
+
+- *2024.06* **Lei Jun Computer Innovation and Development Fund** and  **Research Fund** (雷军创新发展基金、雷军研究基金) (3 Students department-wide)  *Wuhan University*
+
+- *2024.06* <a href="https://scholarship2024.sensetime.com/cn/">**SenseTime Scholarship**</a> (商汤奖学金) ~20k (**25 Students nation-wide**) *SenseTime*
+
+- *2024.04* <a href="https://mp.weixin.qq.com/s/zdx8hH8-g0FScgZvkYQRnw">**CS Pioneer**</a> (计科先锋年度人物) (10 Students department-wide)  *Wuhan University*
+
+- *2023.10* **CCF (China Computer Federation) Elite Collegiate Award** (CCF优秀大学生) (102 Students nation-wide) *China Computer Federation*
+
+- *2023.10* **Pacemaker to Merit Student** (三好学生标兵) (Award Rate ~ <strong>0.1%</strong>) *Wuhan University*
 
 
 <br/>
