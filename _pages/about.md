@@ -343,7 +343,7 @@ c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination
 <ul style="list-style-type: none; padding-left: 0; margin: 0;">
   <li><em>2025.05:</em> 🎉 Two papers were accepted by <strong>ACL 2025 Main</strong>. Thanks to all collaborators!</li>
   <li><em>2025.05:</em> 🎉 Some papers were accepted by <strong>ICML 2025</strong> with <strong class="co-first"> Two Spotlights (Top 2.6%)</strong>. See you in Vancouver!</li>
-   <li><em>2024.11:</em> 🫡 Serving as Associate <strong>Program Chair</strong> for <a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025@KDD</a> - Welcome to submit!</li>
+   <li><em>2024.11:</em> 🫡 Serve as Associate <strong>Program Chair</strong> for <a href="https://fedkdd.github.io/fedkdd2025/">FedKDD 2025@KDD</a> - Welcome to submit!</li>
   <li><em>2025.04:</em> 🎉 One co-first authored paper: LoRASculpt was selected as an <strong class="co-first">Oral Presentation (Top 3.3%)</strong> at <strong>CVPR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.03:</em> 🎉 One co-first authored paper: FedTGE was selected as an <strong class="co-first">Oral Presentation (Top 1.8%)</strong> at <strong>ICLR 2025</strong>. Thanks to all collaborators!</li>
   <li><em>2025.02:</em> 🎉 Three papers accepted by <strong>CVPR 2025</strong> on fine-tuning and applications of <strong>Multimodal Large Language Models (MLLM)</strong>. Thanks to all collaborators! See you in Nashville.</li>
@@ -804,7 +804,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u></strong> among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
+- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
 
 - *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 
@@ -875,7 +875,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <div class="experience-card">
   <div class="experience-info">
     <div class="experience-title">
-      <a href="https://sail.sea.com/">Sea AI Lab</a>
+      <a href="https://sail.sea.com/">Sea AI Lab, Singapore</a>
     </div>
     <div class="experience-role">Internship, Associate member, 2025</div>
     <div class="experience-topics">Topics: (M)LLM, GUI Agent</div>
