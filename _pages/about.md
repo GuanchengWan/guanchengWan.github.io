@@ -17,6 +17,10 @@ redirect_from:
   /* 全局文本颜色 */
   body {
     color: #333; /* 主要文本颜色 */
+    background-image: url('../images/bg.jpg'); /* 背景图片 */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
   }
 
   /* 链接颜色 */
@@ -285,8 +289,9 @@ and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?u
 
 
 
-<div style="background-color: #f8f9fa; padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef;">
-  <p style="margin: 0; "> <strong style="color: red">🌟 📢 Seeking for Remote Research Intern/Assistant (RA)</strong><br>
+<div style="background: linear-gradient(135deg, #f8f9fa, #e9ecef); padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid #e9ecef; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
+  <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 Seeking for Remote Research Intern/Assistant (RA)</strong><br>
 We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR.
     If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
 href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
@@ -804,7 +809,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🎖 Scholarships and Honors
 
-- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u>** among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
+- *2024.11* <a href="https://mp.weixin.qq.com/s/aS639YfEZLi2Y457L5XjUg">**Lei Jun Excellence Scholarship** </a>(**<u>雷军卓越奖学金</u>**) **~100k** (The **<u>Highest</u>** Scholarship at Wuhan University, **<u>Top-4</u></strong> among All Undergraduates, Award Rate ~ **0.01%**)  *Wuhan University*
 
 - *2023.09* **National Scholarship** **(<u>Twice</u>)** (**<u>国家奖学金</u>**) (Award Rate: <strong>0.2% nation-wide</strong>) *Ministry of Education, China* 
 
