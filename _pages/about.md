@@ -956,6 +956,19 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 </div>
 
 
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
+      <a href="https://sigma.whu.edu.cn/">SIGMA lab</a>, Wuhan University
+    </div>
+    <div class="experience-role">Research Assistant, 2023-2025</div>
+    <div class="experience-topics">Topics: Robustness, Backdoor Attack, Graph Learning, Domain Generalization, Federated Learning</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/sigma.png" alt="WHU Logo" />
+  </div>
+</div>
+
 
 <dl><a href="https://clustrmaps.com/site/1bxa7" title="Visit tracker"><img src="//clustrmaps.com/map_v2.png?cl=080808&w=400&t=n&d=3d-gAqSb6Wx-DoL_BIvviv0g9ivHnOPl9-3M98ywjqw&co=ffffff&ct=808080" /></a></dl>
 
