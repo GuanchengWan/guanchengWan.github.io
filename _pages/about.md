@@ -378,7 +378,7 @@ c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination
 </div>
 
 <br/>
-
+<!-- 
 # 📝 Manuscripts
 
 <dl>
@@ -423,7 +423,20 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 <dd>under review, 2025</dd>
 </dl>
 
-<hr>
+<hr> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 📃 Selected Publications ([Full List](https://scholar.google.com/citations?user=pB8zP9UAAAAJ))
 
@@ -500,6 +513,9 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 <hr>
 
+
+
+<!-- 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EMOE.png">
@@ -650,7 +666,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 <dd>Yangxu Liao&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jian Liang, Bin Yang, Mang Ye</dd>
 <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
-<hr>
+<hr> -->
 
 
 <br>
@@ -671,7 +687,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 </dl>
 
 <hr>
-
+<!-- 
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FedSSP.png">
@@ -696,7 +712,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
-<hr>
+<hr> -->
 
 <dl>
   <dt><img align="left"  width="100"
@@ -709,7 +725,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 </dl>
 
 <hr>
-
+<!-- 
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/episurvey.png">
@@ -733,8 +749,8 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
-<hr>
-
+<hr> -->
+<!-- 
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/flsurvey.png">
@@ -745,7 +761,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   </dd>
     <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
-</dl>
+</dl> -->
 
 
 
