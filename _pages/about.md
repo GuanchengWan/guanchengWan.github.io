@@ -863,7 +863,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   </div>
 </div>
 
-<div class="education-card">
+<!-- <div class="education-card">
   <div class="education-info">
     <div class="education-title">
       <strong>2021.09 - 2025.06</strong><br/>
@@ -873,21 +873,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <div class="education-logo">
     <img src="../images/WHU.jpeg" alt="Wuhan University Logo" />
   </div>
-</div>
-
-<!-- 
-<div style="margin-bottom: 40px;">
-  <div style="display: flex; align-items: center; gap: 20px;">
-    <div style="flex: 1; font-size: 1.1em;">
-      <strong>2018.09 - 2021.06</strong><br/>
-      High School, The Attached Middle School To Jiangxi Normal University
-    </div>
-    <div style="flex-shrink: 0; max-width: 100px;">
-      <img src="../images/fuzhong.png" alt="High School Logo" style="width: 100%; height: auto; object-fit: contain;" />
-    </div>
-  </div>
 </div> -->
-
 
 
 # 💼 Experience
