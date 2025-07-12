@@ -881,6 +881,19 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <div class="experience-card">
   <div class="experience-info">
     <div class="experience-title">
+      <a href="https://www.princeton.edu/">Princeton University</a>
+    </div>
+    <div class="experience-role">Research Internship, 2025</div>
+    <div class="experience-topics">Topics: AI for Science</div>
+  </div>
+  <div class="experience-logo">
+    <img src="../images/princeton.png" alt="Princeton Logo" />
+  </div>
+</div>
+
+<div class="experience-card">
+  <div class="experience-info">
+    <div class="experience-title">
       <a href="https://sail.sea.com/">Sea AI Lab, Singapore</a>
     </div>
     <div class="experience-role">Internship, Associate member, 2025</div>
