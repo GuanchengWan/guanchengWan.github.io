@@ -588,7 +588,7 @@ Cut the Crap: An Economical Communication Pipeline for LLM-based Multi-Agent Sys
 
 <hr>
 
-
+<!-- 
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/FedPHA.png">
@@ -599,22 +599,8 @@ hspace="10" wspace="20" src="../images/FedPHA.png">
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
-<hr>
+<hr> -->
 
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/LFBA.png">
-  <span class="conference-label">AAAI 2025</span>
-  </dt>
-  <dd><a href="https://ojs.aaai.org/index.php/AAAI/article/download/34246/36401"><strong>	
-Label-free backdoor attacks in vertical federated learning</strong></a></dd>
-  <dd>Wei Shen, Wenke Huang, <strong>Guancheng Wan</strong>, Mang Ye
-  </dd>
-    <dd> Annual AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2025</dd>
-</dl>
-
-<hr>
 
 <dl>
   <dt><img align="left"  width="100"
@@ -640,7 +626,7 @@ Label-free backdoor attacks in vertical federated learning</strong></a></dd>
   <dd>The 34th International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2025</dd>
 </dl>
 
-
+<!-- 
 <hr>
 
 <dl>
@@ -651,7 +637,7 @@ hspace="10" wspace="20" src="../images/FedDisentangledTuning.png">
   <dd><a href=""><strong>Federated Disentangled Tuning with Textual Prior Decoupling and Visual Dynamic Adaptation</strong></a></dd>
   <dd>Yihao Yang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Bin Yang, Mang Ye</dd>
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
+</dl> -->
 
 <hr>
 
@@ -696,7 +682,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 </dl>
 
 <hr>
-
+<!-- 
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FDCR.png">
@@ -709,7 +695,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
-<hr>
+<hr> -->
 
 <dl>
   <dt><img align="left"  width="100"
