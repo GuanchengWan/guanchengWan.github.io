@@ -280,9 +280,6 @@ My name is Guancheng Wan (万冠呈) <span class="pronunciation" style="cursor: 
 I am open to any research collaboration and internship, with a great record of cooperating and mentoring. 🥳 Feel free to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
 
-<!-- Previously, I spent a wonderful summer at Emory University, supervised by [Wei Jin](https://scholar.google.com/citations?user=eWow24EAAAAJ&hl=en&oi=ao), [Carl Yang](https://scholar.google.com/citations?user=mOINlwcAAAAJ&hl=en&oi=ao) 
-and collaborated with [B. Aditya Prakash](https://scholar.google.com/citations?user=C-NftTgAAAAJ). -->
-
 <div style="text-align: left; margin: 20px 0;">
   <img src="../images/sign.png" alt="Signature" style="max-width: 150px; height: auto;">
 </div>
@@ -515,7 +512,7 @@ hspace="10" wspace="20" src="../images/EARTH.png">
 
 
 
-<!-- 
+
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/EMOE.png">
@@ -666,7 +663,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 <dd>Yangxu Liao&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jian Liang, Bin Yang, Mang Ye</dd>
 <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
-<hr> -->
+<hr>
 
 
 <br>
@@ -687,7 +684,7 @@ hspace="10" wspace="20" src="../images/FedICU.jpg"> <span class="conference-labe
 </dl>
 
 <hr>
-<!-- 
+
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/FedSSP.png">
@@ -712,7 +709,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2024</dd>
 </dl>
 
-<hr> -->
+<hr>
 
 <dl>
   <dt><img align="left"  width="100"
@@ -725,7 +722,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 </dl>
 
 <hr>
-<!-- 
+
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/episurvey.png">
@@ -749,8 +746,8 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <dd> International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2023  </dd>
 </dl>
 
-<hr> -->
-<!-- 
+<hr>
+
 <dl>
   <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/flsurvey.png">
@@ -761,7 +758,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   </dd>
     <dd>IEEE Transactions on Pattern Analysis and Machine Intelligence (<strong>TPAMI</strong>), 2024</dd>
     <dd><a href="https://github.com/WenkeHuang/MarsFL">Project Page</a></dd>
-</dl> -->
+</dl>
 
 
 
