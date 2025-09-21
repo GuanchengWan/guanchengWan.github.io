@@ -462,8 +462,33 @@ Energy-based Backdoor Defense Against Federated Graph Learning
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/GREAT.png">
-<span class="conference-label">ICML 2025</span>
+hspace="10" wspace="20" src="../images/HYPERION.png">
+<span class="conference-label">NeurIPS 2025</span>
+</dt>
+  <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
+  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Xiaoran Shang, Guibin Zhang, Jinhe Bi, Yuxin Wu, Liangtao Zheng, Xin Lin, Yue Liu, Yanbiao Ma, Wenke Huang, Bo Du</dd>
+  <dd><strong class="co-first"><i>Spotlight Presentation (Top 3.1%)</i></strong> in Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/OASIS.png">
+<span class="conference-label">NeurIPS 2025</span>
+</dt>
+  <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
+  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jiaru Qian, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</dd>
+  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+<dl>
+  <dt><img align="left" width="100"
+  hspace="10" wspace="20" src="../images/GREAT.png">
+  <span class="conference-label">ICML 2025</span>
 </dt>
   <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
 <dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
@@ -494,6 +519,20 @@ hspace="10" wspace="20" src="../images/FedSPA.png">
   <dd><a href=""><strong>FedSPA: Generalizable Federated Graph Learning under Homophily Heterogeneity</strong></a></dd>
   <dd>Zihan Tan&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Wenke Huang, Guibin Zhang, He Li, Carl Yang, Mang Ye</dd>
   <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/GMemory.png">
+<span class="conference-label">NeurIPS 2025</span>
+</dt>
+  <dd><a href=""><strong>G-Memory: Tracing Hierarchical Memory for Multi-Agent Systems</strong></a></dd>
+  <dd>Guibin Zhang, Muxin Fu, <strong>Guancheng Wan</strong>, Miao Yu, Kun Wang, Shuicheng Yan</dd>
+  <dd><strong class="co-first"><i>Spotlight Presentation (Top 3.1%)</i></strong> in Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -549,7 +588,24 @@ hspace="10" wspace="20" src="../images/EMOE.png">
   <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
 </dl>
 
+
+
+
 <hr>
+
+
+<dl>
+  <dt><img align="left" width="100"
+  hspace="10" wspace="20" src="../images/MOTION.png">
+  <span class="conference-label">NeurIPS 2025</span>
+  </dt>
+  <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
+  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Fengyuan Ran, Ruikang Zhang, Wenke Huang, Xuankun Rong, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
+  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+</dl>
+
+<hr>
+
 
 <dl>
   <dt><img align="left"  width="100"
@@ -755,9 +811,9 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🔬 Survey and Benchmark
 
-- **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
+- **Protein Large Language Models: A Comprehensive Survey, EMNLP 2025 Findings** 
 
-- **Protein Large Language Models: A Comprehensive Survey**
+- **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
 
 - **A Comprehensive Survey in LLM (-Agent) Full Stack Safety: Data, Training and Deployment**
 
