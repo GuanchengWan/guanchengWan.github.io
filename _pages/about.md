@@ -466,21 +466,22 @@ hspace="10" wspace="20" src="../images/HYPERION.png">
 <span class="conference-label">NeurIPS 2025</span>
 </dt>
   <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
-  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Xiaoran Shang, Guibin Zhang, Jinhe Bi, Yuxin Wu, Liangtao Zheng, Xin Lin, Yue Liu, Yanbiao Ma, Wenke Huang, Bo Du</dd>
+  <dd><strong>Guancheng Wan&dagger;</strong>, Xiaoran Shang, Guibin Zhang, Jinhe Bi, Yuxin Wu, Liangtao Zheng, Xin Lin, Yue Liu, Yanbiao Ma, Wenke Huang, Bo Du</dd>
   <dd><strong class="co-first"><i>Spotlight Presentation (Top 3.1%)</i></strong> in Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
 </dl>
 
-<hr>
 
+<hr>
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/OASIS.png">
 <span class="conference-label">NeurIPS 2025</span>
 </dt>
   <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
-  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Jiaru Qian, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</dd>
+  <dd><strong>Guancheng Wan&dagger;</strong>, Jiaru Qian, Wenke Huang, Qilin Xu, Xianda Guo, Boheng Li, Guibin Zhang, Bo Du, Mang Ye</dd>
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 
@@ -600,9 +601,10 @@ hspace="10" wspace="20" src="../images/EMOE.png">
   <span class="conference-label">NeurIPS 2025</span>
   </dt>
   <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
-  <dd><strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Fengyuan Ran, Ruikang Zhang, Wenke Huang, Xuankun Rong, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
+  <dd><strong>Guancheng Wan&dagger;</strong>, Fengyuan Ran, Ruikang Zhang, Wenke Huang, Xuankun Rong, Guibin Zhang, Yuxin Wu, Bo Du, Mang Ye</dd>
   <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
 </dl>
+
 
 <hr>
 
