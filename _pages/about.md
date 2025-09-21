@@ -581,6 +581,18 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 <dl>
   <dt><img align="left"  width="100"
+  hspace="10" wspace="20" src="../images/GSafeguard.png">
+  <span class="conference-label">ACL 2025 Main</span>
+  </dt>
+  <dd><a href=""><strong>G-Safeguard: A Topology-Guided Security Lens and Treatment on LLM-based Multi-agent Systems</strong></a></dd>
+  <dd>Shilong Wang, Guibin Zhang, Miao Yu, <strong>Guancheng Wan</strong>, Fanci Meng, Chongye Guo, Kun Wang, Yang Wang</dd>
+  <dd>Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left"  width="100"
   hspace="10" wspace="20" src="../images/EAGLES.png">
   <span class="conference-label">ICML 2025</span>
   </dt>
