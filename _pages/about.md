@@ -472,6 +472,20 @@ hspace="10" wspace="20" src="../images/HYPERION.png">
 
 
 <hr>
+
+<dl>
+  <dt><img align="left" width="100"
+  hspace="10" wspace="20" src="../images/GREAT.png">
+  <span class="conference-label">ICML 2025</span>
+</dt>
+  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
+<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
+<dd>  <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
+</dl>
+
+
+
+<hr>
 <dl>
   <dt><img align="left" width="100"
 hspace="10" wspace="20" src="../images/OASIS.png">
@@ -486,17 +500,6 @@ hspace="10" wspace="20" src="../images/OASIS.png">
 <hr>
 
 
-<dl>
-  <dt><img align="left" width="100"
-  hspace="10" wspace="20" src="../images/GREAT.png">
-  <span class="conference-label">ICML 2025</span>
-</dt>
-  <dd><a href=""><strong>Rethink GraphODE Generalization within Coupled Dynamical System</strong></a></dd>
-<dd><strong>Guancheng Wan</strong>, Zijie Huang, Wanjia Zhao, Xiao Luo, Yizhou Sun, Wei Wang</dd>
-<dd>  <strong class="co-first"><i>Spotlight Presentation (Top 2.6%)</i></strong> in International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
-<hr>
 
 
 <dl>
