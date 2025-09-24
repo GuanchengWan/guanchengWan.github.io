@@ -859,10 +859,10 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 <div class="service-section">
   <h3>Conference Committee Member</h3>
   <ul class="service-list">
-    <li>Reviewer for ICML'2025, ICLR'2025, NeurIPS'2024/2025, AISTATS'2025</li>
-    <li>Reviewer for CVPR'2024/2025, ICCV'2025, ECCV'2024</li>
-    <li>Reviewer for ARR, ACL'2025, EMNLP'2025, NACCL'2025</li>
-    <li>Reviewer for AAAI'2025/2026, IJCAI'2025, ACM MM'2024/2025</li>
+    <li>Reviewer for ICML, ICLR, NeurIPS, AISTATS</li>
+    <li>Reviewer for CVPR, ICCV, ECCV</li>
+    <li>Reviewer for ARR, ACL, EMNLP, NAACL</li>
+    <li>Reviewer for AAAI, IJCAI, ACM MM</li>
 
   </ul>
 </div>
