@@ -1051,40 +1051,24 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🏀 Miscellaneous
 
-<details>
-  <summary><strong>Talks and Shares</strong></summary>
-<dd><a href="https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af"><strong>泛化图学习与本科生科研经历分享</strong></a></dd>
+
+### 📖 Poems that Inspire Me
+
+- **白鹭立雪，愚者看鹭，聪者观雪，智者见白** —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.
+- **世界不黑也不白, 而是一道精致的灰** —— The world is neither black nor white, but a delicate shade of gray.
+- **风吹到哪页，读哪页** —— The wind blows to which page, read which page.
+
+### 🎤 Favorite Hip-Hop Artists
+
+- **GALI** - Chinese rapper known for his unique flow and profound lyrics
+- **G-BLOCK** - Hip-hop collective consisting of GAI, 盛宇, 功夫胖, and 刘聪, representing the Southwest China rap scene
+- **Travis Scott** - American rapper and producer famous for his influential Astroworld album
 
 
+### 💬 Talks and Shares
 
+- [📺 泛化图学习与本科生科研经历分享](https://www.bilibili.com/video/BV1gZ42177VL/?spm_id_from=333.337.search-card.all.click&vd_source=0b7a3cc3d3ec288abaca83b9a7e036af)
 
-</details>
+### 🎓 Undergraduate Research Resources
 
-
-<details>
-  <summary><strong>Undergraduate research resource and enrollment process</strong></summary>
-
-<dd><a href="https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd"><strong>Link</strong></a></dd>
-
-
-</details>
-
-
-
-<details>
-  <summary><strong>Poems that inspire me</strong></summary>
-  <dd><strong>白鹭立雪，愚者看鹭，聪者观雪，智者见白</strong> —— A white egret stands in the snow. The foolish see only the egret, the wise observe the snow, and the enlightened perceive the whiteness.</dd>
-  <dd><strong>世界不黑也不白, 而是一道精致的灰</strong> —— The world is neither black nor white, but a delicate shade of gray. </dd>
-    <dd><strong>风吹到哪页，读哪页</strong> —— The wind blows to which page, read which page.. </dd>
-</details>
-
-
-
-
-<br>
-
-<br>
-
-<br>
-
-<br>
+- [📄 Undergraduate research resource and enrollment process](https://zxeupbuzh9y.feishu.cn/docx/ZDEsdpZtPosRWOxcBnkcF8Hknkd)

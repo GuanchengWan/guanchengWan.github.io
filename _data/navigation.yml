@@ -9,6 +9,10 @@ main:
   - title: "Publications"
     url: "/#-selected-publications-full-list"
 
+  - title: "Service"
+    url: "/#-service"
+
+    
   - title: "Manuscripts"
     url: "/#-manuscripts"
 
