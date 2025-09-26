@@ -71,6 +71,7 @@ include:
 exclude:
   - docs
   - google_scholar_crawler
+  - 65392e6cf1fb621f0b5735a9
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
