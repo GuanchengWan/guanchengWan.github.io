@@ -285,14 +285,14 @@ I am open to any research collaboration and internship, with a great record of c
 </div>
 
 
-
+<!-- 
 <div style="background: linear-gradient(135deg, #f3f8ff, #e8f4fd); padding: 20px; border-radius: 10px; margin: 20px 0; border: 2px solid #1976d2; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1); position: relative; overflow: hidden;">
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: linear-gradient(135deg, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.3)); pointer-events: none;"></div>
   <p style="margin: 0; position: relative; z-index: 1;"> <strong style="color: red">🌟 📢 Seeking for Remote Intern/Assistant (RA)</strong><br>
 We are looking for motivated research interns to work together! Almost every intern who worked with me has published papers at top conferences such as ICML, NeurIPS, ICLR and CVPR. If you are interested, please don't hesitate to contact me via <a href="mailto:gcwan03@ucla.edu">Email</a> or <a 
 href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
   </p>
-</div>
+</div> -->
 
 
 # 🔎 Research 
@@ -381,54 +381,32 @@ c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination
 
 
 
-<!-- 
+
 
 # 📝 Manuscripts
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/MOTION.png">
-<span class="conference-label">Under Review</span>
+hspace="10" wspace="20" src="../images/DLA.png">
+<span class="conference-label">Arxiv</span>
 </dt>
-  <dd><a href=""><strong>MOTION: Multi-Sculpt Evolutionary Coarsening for Federated Continual Graph Learning</strong></a></dd>
-<dd>under review, 2025</dd>
+  <dd><a href=""><strong>Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts</strong></a></dd>
+<dd>Arxiv: 2509.23188</dd>
 </dl>
 
 <hr>
 
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/HYPERION.png">
-<span class="conference-label">Under Review</span>
-</dt>
-  <dd><a href=""><strong>HYPERION: Fine-Grained Hypersphere Alignment for Robust Federated Graph Learning</strong></a></dd>
-<dd>under review, 2025</dd>
-</dl>
-
-<hr>
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/TRUST.png">
-<span class="conference-label">Under Review</span>
+hspace="10" wspace="20" src="../images/TARE.png">
+<span class="conference-label">Arxiv</span>
 </dt>
-  <dd><a href=""><strong>Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
-<dd>under review, 2025</dd>
+  <dd><a href="https://arxiv.org/pdf/2509.24130"><strong>Beyond Magic Words: Sharpness-Aware Prompt Evolving for Robust Large Language Models with TARE</strong></a></dd>
+<dd>Arxiv: 2509.24130</dd>
 </dl>
 
-<hr>
-
-<dl>
-  <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/OASIS.png">
-<span class="conference-label">Under Review</span>
-</dt>
-  <dd><a href=""><strong>OASIS: One-Shot Federated Graph Learning via Wasserstein Assisted Knowledge Integration</strong></a></dd>
-<dd>under review, 2025</dd>
-</dl>
-
-<hr> -->
-
+<hr> 
 
 
 
