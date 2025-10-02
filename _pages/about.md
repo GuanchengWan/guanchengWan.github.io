@@ -390,7 +390,7 @@ c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination
 hspace="10" wspace="20" src="../images/DLA.png">
 <span class="conference-label">Arxiv</span>
 </dt>
-  <dd><a href=""><strong>Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts</strong></a></dd>
+  <dd><a href="https://arxiv.org/pdf/2509.23188"><strong>Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts</strong></a></dd>
 <dd>Arxiv: 2509.23188</dd>
 </dl>
 
@@ -901,7 +901,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   </div>
 </div>
 
-<!-- <div class="education-card">
+<div class="education-card">
   <div class="education-info">
     <div class="education-title">
       <strong>2021.09 - 2025.06</strong><br/>
@@ -911,7 +911,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <div class="education-logo">
     <img src="../images/WHU.jpeg" alt="Wuhan University Logo" />
   </div>
-</div> -->
+</div>
 
 
 # 💼 Experience
