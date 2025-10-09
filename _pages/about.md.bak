@@ -304,11 +304,11 @@ href="https://guanchengwan.github.io/images/wechat.png">WeChat</a>.
 
 I am passionate about modeling the relationships among all points (*e.g.*, nodes, tokens, or agents). My current research interests focus on three key areas:
 
-a) (Multimodal) Large Language Models (MLLM) Agent(s), Agentic System, Large Reasoning Models
+a) (Multimodal) Large Language Models (MLLM), Large Reasoning Models, LLM-based Multi-Agent System
 
-b) AI for Science: Biotechnology & Physics
+b) AI for Science: Biotechnology, Physics and Chemistry...
 
-c) Trustworthy AI:  MLLM Safety and Hallucination, Federated (Graph) Learning
+c) Trustworthy AI:  Federated (Graph) Learning, MLLM Safety and Hallucination 
 
 
 
@@ -552,12 +552,12 @@ hspace="10" wspace="20" src="../images/EMOE.png">
 
 <dl>
   <dt><img align="left" width="100"
-hspace="10" wspace="20" src="../images/TRUST.png">
-<span class="conference-label">NeurIPS 2025</span>
+hspace="10" wspace="20" src="../images/EMOE.png">
+<span class="conference-label">CVPR 2025</span>
 </dt>
-  <dd><a href=""><strong>TRUST: Multi-order Orchestrated Curriculum Distillation for Model-Heterogeneous Federated Graph Learning</strong></a></dd>
-  <dd><strong>Guancheng Wan&dagger;</strong>, Xu Cheng&dagger;, Run Liu, Wenke Huang, Zitong Shi, Pinyi Jin, Guibin Zhang, Bo Du, Mang Ye</dd>
-  <dd>Annual Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2025</dd>
+  <dd><a href=""><strong>EMOE: Modality-Specific Enhanced Dynamic Emotion Experts</strong></a></dd>
+  <dd>Yiyang Fang&dagger;, Wenke Huang&dagger;, <strong>Guancheng Wan&dagger;</strong> <span class="co-first">(co-first)</span>, Kehua Su, Mang Ye</dd>
+  <dd>Conference on Computer Vision and Pattern Recognition (<strong>CVPR</strong>), 2025</dd>
 </dl>
 
 <hr>
@@ -838,7 +838,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
 
 # 🔬 Survey and Benchmark
 
-- **Protein Large Language Models: A Comprehensive Survey, <em>EMNLP 2025 Findings</em>** 
+- **Protein Large Language Models: A Comprehensive Survey, EMNLP 2025 Findings** 
 
 - **Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model**
 
@@ -871,7 +871,7 @@ Parameter Disparities Dissection for Backdoor Defense in Heterogeneous Federated
   <ul class="service-list">
     <li>Reviewer for ICML, ICLR, NeurIPS, AISTATS</li>
     <li>Reviewer for CVPR, ICCV, ECCV</li>
-    <li>Reviewer for ARR Rolling: ACL, EMNLP, NAACL...</li>
+    <li>Reviewer for ARR, ACL, EMNLP, NAACL</li>
     <li>Reviewer for AAAI, IJCAI, ACM MM</li>
 
   </ul>
