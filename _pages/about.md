@@ -602,18 +602,6 @@ hspace="10" wspace="20" src="../images/TRUST.png">
 
 
 
-<hr>
-
-<dl>
-  <dt><img align="left"  width="100"
-  hspace="10" wspace="20" src="../images/EAGLES.png">
-  <span class="conference-label">ICML 2025</span>
-  </dt>
-  <dd><a href=""><strong>EAGLES: Towards Effective, Efficient, and Economical Federated Graph Learning via Unified Sparsification</strong></a></dd>
-  <dd>Zitong Shi&dagger;, <strong>Guancheng Wan</strong>&dagger; <span class="co-first">(co-first)</span>, Guibin Zhang, Wenke Huang, He Li, Carl Yang, Mang Ye</dd>
-  <dd>International Conference on Machine Learning (<strong>ICML</strong>), 2025</dd>
-</dl>
-
 
 
 
