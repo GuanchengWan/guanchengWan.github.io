@@ -420,6 +420,70 @@ hspace="10" wspace="20" src="../images/TARE.png">
 **&dagger; Equal Contribution**   
 
 <div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
+2026 
+</div>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/DAWN.png">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+  <dd><a href=""><strong>DAWN: Distributed Multi-Agent Workflow Synthesis via Federated Graph Learning</strong></a></dd>
+  <dd><strong>Guancheng Wan</strong>, Mo Zhou, Ziyi Wang, Xiaoran Shang, Eric Hanchen Jiang, Guibin Zhang, Jinhe Bi, Yunpu Ma, ZAIXI ZHANG, KE LIANG, Wenke Huang</dd>
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/TAG-FGL.png">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+  <dd><a href=""><strong>Towards Robust Text-Attributed Federated Graph Learning: Multimodal Threats and Defense</strong></a></dd>
+  <dd>Zitong Shi, <strong>Guancheng Wan</strong>, Wenke Huang, Yuxin Wu, QUAN ZHANG, Mang Ye</dd>
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/PurMM.png">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+  <dd><a href=""><strong>PurMM: Attention-Guided Test-Time Backdoor Purification in Multi-modal Large Language Models</strong></a></dd>
+  <dd>Wenzheng Jiang, KE LIANG, Xuankun Rong, Jingxuan Zhou, Zhengyi Zhong, <strong>Guancheng Wan</strong>, Ji Wang</dd>
+  <dd><strong class="co-first"><i>Oral Presentation</i></strong> in AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/FSR.png">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+  <dd><a href=""><strong>Divide, Conquer and Unite: Hierarchical Style-Recalibrated Prototype Alignment for Federated Medical Segmentation</strong></a></dd>
+  <dd>Xingyue Zhao, Wenke Huang, Xingguang Wang, Haoyu Zhao, Linghao Zhuang, Anwen Jiang, <strong>Guancheng Wan</strong>, Mang Ye</dd>
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+<dl>
+  <dt><img align="left" width="100"
+hspace="10" wspace="20" src="../images/FedSupWA.png">
+<span class="conference-label">AAAI 2026</span>
+</dt>
+  <dd><a href=""><strong>Domain-Aware Suppression and Aggregation for Federated DG ReID</strong></a></dd>
+  <dd>Zhixi Yu, Wei Liu, Wenke Huang, Bin Yang, Qian Bie, <strong>Guancheng Wan</strong>, Xin Xu</dd>
+  <dd>AAAI Conference on Artificial Intelligence (<strong>AAAI</strong>), 2026</dd>
+</dl>
+
+<hr>
+
+<div style="text-align: left; margin: 20px 0; font-size: 1.5em; color: #666;">
 2025 
 </div>
 
