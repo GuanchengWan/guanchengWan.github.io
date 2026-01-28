@@ -12,8 +12,21 @@ My name is Guancheng. Due to serious mental health conditions, I will **no longe
 
 Thank you to everyone who has supported me, and I wish you all the best.
 
-Medical Reports or Materials
 
-![Medical Reports](/docs/Jiangxi.jpg)
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<iframe src="/docs/1CAPS-Letter-1.pdf" width="100%" height="900" style="border: none;"></iframe>
+
+**Medical Reports or Materials:**
+
+<div style="display: flex; gap: 20px; align-items: flex-start; flex-wrap: wrap;">
+  <div style="flex: 1 1 320px; max-width: 420px;">
+    <img src="/docs/Jiangxi.jpg" alt="Medical Reports" style="width: 100%; height: auto;" />
+  </div>
+  <div style="flex: 2 1 520px; min-width: 320px;">
+    <iframe src="/docs/1CAPS-Letter-1.pdf" width="100%" height="650" style="border: none;"></iframe>
+  </div>
+</div>
