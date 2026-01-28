@@ -1,0 +1,43 @@
+ts=$(date '+%Y-%m-%d %H:%M')
+msg="sync: Publications/Service/Honors update ($ts)"
+
+process_repo() {
+  REPO="$1"
+  NAME="$2"
+
+  echo "== $NAME =="
+  if [ ! -d "$REPO/.git" ]; then
+    echo "$NAME: 非 git 仓库，跳过"
+    return
+  fi
+
+  branch=$(git -C "$REPO" rev-parse --abbrev-ref HEAD 2>/dev/null || echo main)
+  if [ "$branch" = "HEAD" ] || [ -z "$branch" ]; then branch=main; fi
+
+  git -C "$REPO" add -A
+
+  if git -C "$REPO" diff --cached --quiet; then
+    echo "$NAME: 无改动"
+  else
+    if git -C "$REPO" commit -m "$msg"; then
+      echo "$NAME: 提交完成 -> $msg"
+    else
+      echo "$NAME: 提交失败"
+    fi
+  fi
+
+  if git -C "$REPO" remote get-url origin >/dev/null 2>&1; then
+    if git -C "$REPO" push -u origin "$branch"; then
+      echo "$NAME: 推送成功 -> origin/$branch"
+    else
+      echo "$NAME: 推送失败（请检查网络或权限）"
+    fi
+  else
+    echo "$NAME: 未配置 origin，跳过推送"
+  fi
+
+  echo
+}
+
+process_repo "." "仓库 A（当前目录）"
+process_repo "/Users/suhui/Documents/百度同步/科研/未命名/65392e6cf1fb621f0b5735a9" "仓库 B（Overleaf 目录）"
