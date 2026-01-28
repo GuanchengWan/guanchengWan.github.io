@@ -29,7 +29,7 @@ author:
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "gcwan03@ucla.edu"
+  email            : "gcwan3@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : 
   bitbucket        :
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "GuanchengWan"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
@@ -69,7 +69,6 @@ include:
   - _pages
   - files
 exclude:
-  - docs
   - google_scholar_crawler
   - 65392e6cf1fb621f0b5735a9
   - "*.sublime-project"
