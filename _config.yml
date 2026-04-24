@@ -22,23 +22,23 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Guancheng"
-  avatar           :
-  bio              :
+  name             : "Guancheng Wan"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Founder & CEO, WanFlow AI"
   location         :
   employer         :
   pubmed           :
   googlescholar    :
   email            : "gcwan3@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : 
+  uri              : "https://wanflowai.com"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "GuanchengWan"
   google_plus      :
   keybase          :
   instagram        :
