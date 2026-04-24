@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
  
-My name is Guancheng. Due to serious mental health conditions, I will **no longer pursue any PhD degree in any country or at any school**. **I will also no longer engage in academic or research activities, and I will close all forms of academic collaboration from now to the future, including but not limited to new publications, projects, or conferences.** I am truly sorry. Opinions and Decisions are my own and have nothing to do with any person or organization.
+My name is Guancheng Wan, Founder & CEO of WanFlow AI and Chief Scientist of CosmosMind. We help companies put AI into real business operations by connecting data, workflows, multi-agent systems, human review, and model operations into one working system. Our focus are **Trustworthy & Self-Evolving Agentic System**, and **Data Flywheel** that help customers deliver reliable results and keep improving with use.
 
-Thank you to everyone who has supported me, and I wish you all the best.
+
+> 不诱于誉，不恐于诽，率道而行，端然正己
 
 
 <br>

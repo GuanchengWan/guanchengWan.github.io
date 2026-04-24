@@ -107,3 +107,234 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+:root {
+  --wanflow-ink: #102033;
+  --wanflow-muted: #556476;
+  --wanflow-border: rgba(16, 32, 51, 0.12);
+  --wanflow-surface: rgba(255, 255, 255, 0.78);
+  --wanflow-panel: #ffffff;
+  --wanflow-glow: rgba(41, 103, 255, 0.14);
+  --wanflow-trust: #1e5eff;
+  --wanflow-evolving: #0d8f78;
+  --wanflow-flywheel: #bb6a16;
+  --wanflow-shadow: 0 24px 80px rgba(17, 36, 68, 0.12);
+}
+
+.page__content {
+  .founder-hero {
+    position: relative;
+    overflow: hidden;
+    margin-top: 1.5rem;
+    padding: clamp(2rem, 4vw, 4rem);
+    border: 1px solid var(--wanflow-border);
+    border-radius: 32px;
+    background:
+      radial-gradient(circle at top left, rgba(30, 94, 255, 0.16), transparent 30%),
+      radial-gradient(circle at bottom right, rgba(13, 143, 120, 0.14), transparent 32%),
+      linear-gradient(135deg, #f8f5ed 0%, #ffffff 46%, #eef4ff 100%);
+    box-shadow: var(--wanflow-shadow);
+  }
+
+  .founder-hero:before,
+  .founder-hero:after {
+    content: "";
+    position: absolute;
+    border-radius: 999px;
+    pointer-events: none;
+  }
+
+  .founder-hero:before {
+    top: -8rem;
+    right: -6rem;
+    width: 16rem;
+    height: 16rem;
+    background: rgba(30, 94, 255, 0.08);
+    filter: blur(6px);
+  }
+
+  .founder-hero:after {
+    bottom: -7rem;
+    left: -5rem;
+    width: 14rem;
+    height: 14rem;
+    background: rgba(13, 143, 120, 0.08);
+    filter: blur(6px);
+  }
+
+  .founder-hero__eyebrow,
+  .founder-pillars__label,
+  .founder-hero__role {
+    font-family: "Sora", $sans-serif;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .founder-hero__eyebrow {
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.6rem;
+    padding: 0.45rem 0.8rem;
+    border: 1px solid rgba(30, 94, 255, 0.16);
+    border-radius: 999px;
+    color: var(--wanflow-trust);
+    background: rgba(255, 255, 255, 0.72);
+    font-size: 0.72rem;
+    font-weight: 600;
+  }
+
+  .founder-hero__title {
+    position: relative;
+    z-index: 1;
+    margin: 1rem 0 0;
+    padding: 0;
+    border: 0;
+    color: var(--wanflow-ink);
+    font-family: "Fraunces", $serif;
+    font-size: clamp(3.2rem, 9vw, 5.8rem);
+    font-weight: 700;
+    line-height: 0.94;
+    letter-spacing: -0.05em;
+  }
+
+  .founder-hero__role {
+    position: relative;
+    z-index: 1;
+    margin: 1rem 0 0;
+    color: var(--wanflow-muted);
+    font-size: 0.78rem;
+    font-weight: 600;
+  }
+
+  .founder-hero__body {
+    position: relative;
+    z-index: 1;
+    max-width: 50rem;
+    margin: 1.5rem 0 0;
+    color: var(--wanflow-ink);
+    font-family: "Sora", $sans-serif;
+    font-size: clamp(1.05rem, 2vw, 1.3rem);
+    line-height: 1.85;
+  }
+
+  .founder-hero__emphasis {
+    display: inline;
+    padding: 0.08rem 0.32rem 0.12rem;
+    border-radius: 0.45rem;
+    font-weight: 600;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+  }
+
+  .founder-hero__emphasis--trust {
+    color: #153a9a;
+    background: rgba(30, 94, 255, 0.12);
+  }
+
+  .founder-hero__emphasis--evolving {
+    color: #0a6d5d;
+    background: rgba(13, 143, 120, 0.12);
+  }
+
+  .founder-hero__emphasis--flywheel {
+    color: #8e530d;
+    background: rgba(187, 106, 22, 0.12);
+  }
+
+  .founder-pillars {
+    position: relative;
+    z-index: 1;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .founder-pillars__card {
+    min-height: 100%;
+    padding: 1.2rem 1.2rem 1.3rem;
+    border: 1px solid var(--wanflow-border);
+    border-radius: 24px;
+    background: var(--wanflow-surface);
+    backdrop-filter: blur(10px);
+    box-shadow: 0 18px 48px rgba(17, 36, 68, 0.08);
+  }
+
+  .founder-pillars__card h2 {
+    margin: 0.55rem 0 0;
+    padding: 0;
+    border: 0;
+    color: var(--wanflow-ink);
+    font-family: "Fraunces", $serif;
+    font-size: clamp(1.45rem, 2vw, 1.8rem);
+    line-height: 1.08;
+  }
+
+  .founder-pillars__card p {
+    margin: 0.8rem 0 0;
+    color: var(--wanflow-muted);
+    font-family: "Sora", $sans-serif;
+    font-size: 0.98rem;
+    line-height: 1.75;
+  }
+
+  .founder-pillars__label {
+    display: inline-block;
+    font-size: 0.68rem;
+    font-weight: 700;
+  }
+
+  .founder-pillars__card--trust .founder-pillars__label {
+    color: var(--wanflow-trust);
+  }
+
+  .founder-pillars__card--evolving .founder-pillars__label {
+    color: var(--wanflow-evolving);
+  }
+
+  .founder-pillars__card--flywheel .founder-pillars__label {
+    color: var(--wanflow-flywheel);
+  }
+
+  @include breakpoint(max-width $medium-wide) {
+    .founder-hero {
+      border-radius: 28px;
+    }
+
+    .founder-pillars {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    .founder-hero {
+      margin-top: 0.75rem;
+      padding: 1.4rem;
+      border-radius: 24px;
+    }
+
+    .founder-hero__title {
+      font-size: 2.9rem;
+    }
+
+    .founder-hero__body {
+      font-size: 1rem;
+      line-height: 1.75;
+    }
+
+    .founder-pillars__card {
+      padding: 1rem;
+      border-radius: 20px;
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .founder-hero,
+    .founder-pillars__card {
+      animation: none;
+      transition: none;
+    }
+  }
+}
