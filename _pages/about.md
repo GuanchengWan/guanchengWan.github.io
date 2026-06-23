@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-My name is Guancheng Wan, Founder & CEO of WanFlow AI and Chief Scientist of CosmosMind. We help companies put AI into real business operations by connecting data, workflows, multi-agent systems, human review, and model operations into one working system. Our focus are **Trustworthy & Self-Evolving Agentic System**, and **Data Flywheel** that help customers deliver reliable results and keep improving with use. If you have any question, please feel free to contact me via current school email: gcwan03@ucla[dot]edu (PhD. on leave since Mar 2026).
+My name is Guancheng Wan, Founder & CEO of WanFlow AI and Chief Scientist of CosmosMind. We help companies put AI into real business operations by connecting data, workflows, multi-agent systems, human review, and model operations into one working system. Our focus are **Trustworthy & Self-Evolving Agentic System**, and **Data Flywheel** that help customers deliver reliable results and keep improving with use. If you have any question, please feel free to contact me via current school email: gcwan03@ucla[dot]edu (Ph.D. on leave since Mar 2026).
 
 > 不诱于誉，不恐于诽，率道而行，端然正己
 
