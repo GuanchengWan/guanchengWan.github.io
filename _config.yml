@@ -24,11 +24,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Guancheng Wan"
   avatar           : "images/4d0e49634f2eb9a6be3adb712662e398.jpg"
-  bio              : "Founder & CEO, WanFlow AI"
-  location         :
+  bio              : "Founder & CEO, CosmosMind"
+  location         : 
   employer         :
   pubmed           :
-  googlescholar    :
+  googlescholar    : "https://scholar.google.com/citations?user=-dsexzkAAAAJ&hl=en"
   email            : "gcwan3@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
