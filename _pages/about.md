@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
  
-My name is Guancheng Wan, Founder & CEO of CosmosMind. We help companies put AI into real business operations by connecting data, workflows, multi-agent systems, human review, and model operations into one working system. Our focus are **Meta-Recursive Self-Improving System for Science and Engineering**. My part of the work appears in: _**ACL Main 2026 Oral, ICLR 2026 Oral, ICLR 2025 Oral, CVPR 2025 Oral, NeurIPS 2025 Spotlight, ICML 2025 Spotlight, etc.**_ If you have any question, please feel free to contact me via current school email: gcwan03@ucla[dot]edu.
+My name is Guancheng Wan, Founder & CEO of CosmosMind. We help companies put AI into real business operations by connecting data, workflows, multi-agent systems, human review, and model operations into one working system. Our focus are **Meta-Recursive Self-Improving System for R&D**. My part of the work appears in: _**ACL Main 2026 Oral, ICLR 2026 Oral, ICLR 2025 Oral, CVPR 2025 Oral, NeurIPS 2025 Spotlight, ICML 2025 Spotlight, etc.**_ If you have any question, please feel free to contact me via current school email: gcwan03@ucla[dot]edu.
 
 > 不诱于誉，不恐于诽，率道而行，端然正己
 > [Google Scholar](https://scholar.google.com/citations?user=-dsexzkAAAAJ&hl=en)
